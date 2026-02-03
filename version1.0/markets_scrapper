@@ -1,0 +1,152 @@
+# market_scraper.py
+"""
+Market Scraper - Scrapes odds for specific markets
+Each market operates independently and in parallel
+"""
+
+import threading
+import time
+from typing import Dict, List, Optional
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.select import Select
+
+class MarketScraper:
+    """Scrapes odds for a specific market"""
+    
+    def __init__(self, driver, market_name: str, market_button=None):
+        self.driver = driver
+        self.market_name = market_name
+        self.market_button = market_button
+        self._stop_event = threading.Event()
+        
+    def activate_market(self) -> bool:
+        """Activate this market by clicking button or selecting from dropdown"""
+        try:
+            if self.market_button:
+                # Click market button
+                if "active" not in self.market_button.get_attribute("class"):
+                    self.market_button.click()
+                    time.sleep(0.5)
+                return True
+            else:
+                # Handle dropdown markets
+                dropdown = self.driver.find_element(
+                    By.CSS_SELECTOR, "div.games-filter-d select"
+                )
+                select = Select(dropdown)
+                
+                try:
+                    select.select_by_value(self.market_name)
+                    time.sleep(0.5)
+                    return True
+                except:
+                    # Try visible text
+                    try:
+                        select.select_by_visible_text(self.market_name)
+                        time.sleep(0.5)
+                        return True
+                    except:
+                        print(f"Market {self.market_name} not found in dropdown")
+                        return False
+                        
+        except Exception as e:
+            print(f"Error activating market {self.market_name}: {e}")
+            return False
+    
+    def scrape_odds(self, match_element) -> Dict[str, float]:
+        """Scrape odds from a specific match element"""
+        odds_data = {}
+        
+        if self._stop_event.is_set():
+            return odds_data
+        
+        try:
+            # Different scraping logic based on market type
+            if self.market_name == "1X2":
+                odds_elements = match_element.find_elements(
+                    By.CSS_SELECTOR, "div.o.s-1.m3 button"
+                )
+                labels = ["1", "X", "2"]
+                
+            elif self.market_name in ["GG/NG", "GG_NG"]:
+                odds_elements = match_element.find_elements(
+                    By.CSS_SELECTOR, "div.o.s-2.m2 button"
+                )
+                labels = ["GG", "NG"]  # Yes/No for GG/NG
+                
+            elif self.market_name == "Double Chance":
+                # Need to activate this market first
+                if not self.activate_market():
+                    return odds_data
+                
+                # After activation, find new odds elements
+                odds_elements = match_element.find_elements(
+                    By.CSS_SELECTOR, "div.odds button"
+                )[:3]  # Typically 3 options for Double Chance
+                labels = ["1X", "12", "X2"]
+                
+            else:
+                # For other markets
+                if not self.activate_market():
+                    return odds_data
+                
+                odds_elements = match_element.find_elements(
+                    By.CSS_SELECTOR, "div.odds button"
+                )
+                labels = [str(i+1) for i in range(len(odds_elements))]
+            
+            # Extract odds values
+            for i, (label, odds_elem) in enumerate(zip(labels, odds_elements)):
+                try:
+                    odds_value = odds_elem.find_element(
+                        By.CSS_SELECTOR, "span.o-2"
+                    ).text.strip()
+                    
+                    # Parse odds value
+                    try:
+                        odds_float = float(odds_value)
+                        odds_data[label] = odds_float
+                    except ValueError:
+                        pass
+                        
+                except Exception as e:
+                    print(f"Error parsing odds for {self.market_name} option {label}: {e}")
+                    continue
+            
+        except Exception as e:
+            print(f"Error scraping {self.market_name} odds: {e}")
+        
+        return odds_data
+    
+    def scrape_match(self, match_id: str, match_element, state_manager) -> bool:
+        """Scrape odds for a single match and update state"""
+        if self._stop_event.is_set():
+            return False
+        
+        # Check if match is still scrapable (not LIVE or FINISHED)
+        match_record = state_manager.get_match(match_id)
+        if not match_record:
+            return False
+        
+        if match_record.state.value in ["LIVE", "FINISHED"]:
+            return False
+        
+        # Scrape odds
+        odds_data = self.scrape_odds(match_element)
+        
+        # Update state manager
+        success_count = 0
+        for label, odds in odds_data.items():
+            market_key = f"{self.market_name}_{label}"
+            if state_manager.add_odds(match_id, market_key, odds):
+                success_count += 1
+        
+        if success_count > 0:
+            print(f"Scraped {success_count} odds for {match_id} ({self.market_name})")
+            return True
+        
+        return False
+    
+    def stop(self):
+        """Stop scraping"""
+        self._stop_event.set()
