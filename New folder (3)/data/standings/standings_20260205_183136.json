@@ -1,0 +1,253 @@
+{
+  "scrape_timestamp": "2026-02-05 18:31:36",
+  "league_info": {
+    "league": "English League",
+    "timer": "00:29"
+  },
+  "standings": {
+    "season": "English League Season #2026020514",
+    "teams": [
+      {
+        "position": "1",
+        "team_name": "Liverpool",
+        "points": "36",
+        "form": [
+          "L",
+          "W",
+          "W",
+          "W",
+          "L"
+        ]
+      },
+      {
+        "position": "2",
+        "team_name": "Burnley",
+        "points": "35",
+        "form": [
+          "W",
+          "W",
+          "L",
+          "W",
+          "W"
+        ]
+      },
+      {
+        "position": "3",
+        "team_name": "Sheffield U",
+        "points": "34",
+        "form": [
+          "W",
+          "W",
+          "W",
+          "W",
+          "L"
+        ]
+      },
+      {
+        "position": "4",
+        "team_name": "Manchester Blue",
+        "points": "32",
+        "form": [
+          "W",
+          "W",
+          "W",
+          "L",
+          "W"
+        ]
+      },
+      {
+        "position": "5",
+        "team_name": "Brighton",
+        "points": "31",
+        "form": [
+          "W",
+          "W",
+          "D",
+          "L",
+          "D"
+        ]
+      },
+      {
+        "position": "6",
+        "team_name": "Aston V",
+        "points": "31",
+        "form": [
+          "D",
+          "D",
+          "W",
+          "L",
+          "W"
+        ]
+      },
+      {
+        "position": "7",
+        "team_name": "Palace",
+        "points": "29",
+        "form": [
+          "D",
+          "W",
+          "L",
+          "L",
+          "W"
+        ]
+      },
+      {
+        "position": "8",
+        "team_name": "Manchester Reds",
+        "points": "27",
+        "form": [
+          "L",
+          "L",
+          "D",
+          "L",
+          "D"
+        ]
+      },
+      {
+        "position": "9",
+        "team_name": "London Reds",
+        "points": "26",
+        "form": [
+          "W",
+          "L",
+          "W",
+          "W",
+          "L"
+        ]
+      },
+      {
+        "position": "10",
+        "team_name": "Tottenham",
+        "points": "24",
+        "form": [
+          "W",
+          "L",
+          "L",
+          "W",
+          "W"
+        ]
+      },
+      {
+        "position": "11",
+        "team_name": "Newcastle",
+        "points": "24",
+        "form": [
+          "L",
+          "W",
+          "L",
+          "W",
+          "L"
+        ]
+      },
+      {
+        "position": "12",
+        "team_name": "London Blues",
+        "points": "23",
+        "form": [
+          "W",
+          "L",
+          "L",
+          "L",
+          "W"
+        ]
+      },
+      {
+        "position": "13",
+        "team_name": "Leicester",
+        "points": "18",
+        "form": [
+          "W",
+          "L",
+          "W",
+          "L",
+          "L"
+        ]
+      },
+      {
+        "position": "14",
+        "team_name": "West Brom",
+        "points": "18",
+        "form": [
+          "L",
+          "L",
+          "W",
+          "W",
+          "D"
+        ]
+      },
+      {
+        "position": "15",
+        "team_name": "Wolves",
+        "points": "17",
+        "form": [
+          "L",
+          "W",
+          "L",
+          "L",
+          "L"
+        ]
+      },
+      {
+        "position": "16",
+        "team_name": "West Ham",
+        "points": "17",
+        "form": [
+          "L",
+          "L",
+          "L",
+          "W",
+          "L"
+        ]
+      },
+      {
+        "position": "17",
+        "team_name": "Southampton",
+        "points": "16",
+        "form": [
+          "W",
+          "W",
+          "L",
+          "W",
+          "W"
+        ]
+      },
+      {
+        "position": "18",
+        "team_name": "Fulham",
+        "points": "15",
+        "form": [
+          "L",
+          "L",
+          "W",
+          "W",
+          "D"
+        ]
+      },
+      {
+        "position": "19",
+        "team_name": "Everton",
+        "points": "12",
+        "form": [
+          "L",
+          "L",
+          "W",
+          "L",
+          "L"
+        ]
+      },
+      {
+        "position": "20",
+        "team_name": "Leeds",
+        "points": "12",
+        "form": [
+          "L",
+          "D",
+          "L",
+          "L",
+          "W"
+        ]
+      }
+    ],
+    "total_teams": 20
+  }
+}

@@ -1,0 +1,72 @@
+2026-02-05 21:42:34 | Orchestrator | INFO | ============================================================
+2026-02-05 21:42:34 | Orchestrator | INFO | OdiLeague Agentic Scraper System
+2026-02-05 21:42:34 | Orchestrator | INFO | ============================================================
+2026-02-05 21:42:34 | Orchestrator | INFO | State transition: initializing → initializing
+2026-02-05 21:42:34 | Orchestrator | INFO | Initializing browser...
+2026-02-05 21:42:44 | Orchestrator | INFO | ✓ Browser initialized
+2026-02-05 21:42:44 | Orchestrator | INFO | Initializing data agent...
+2026-02-05 21:42:44 | Orchestrator | INFO | ✓ Data agent initialized
+2026-02-05 21:42:44 | Orchestrator | INFO | Navigating to https://odibets.com/odileague...
+2026-02-05 21:43:14 | Orchestrator | ERROR | Initialization failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://odibets.com/odileague", waiting until "networkidle"
+
+2026-02-05 21:43:14 | Orchestrator | INFO | ============================================================
+2026-02-05 21:43:14 | Orchestrator | INFO | SHUTTING DOWN SYSTEM
+2026-02-05 21:43:14 | Orchestrator | INFO | ============================================================
+2026-02-05 21:43:14 | Orchestrator | INFO | State transition: error → stopping
+2026-02-05 21:43:14 | Orchestrator | INFO | Stopping 0 league agents...
+2026-02-05 21:43:14 | Orchestrator | INFO | Shutting down data agent...
+2026-02-05 21:43:14 | Orchestrator | INFO | Closing browser...
+2026-02-05 21:43:15 | Orchestrator | INFO | State transition: stopping → stopped
+2026-02-05 21:43:15 | Orchestrator | INFO | ============================================================
+2026-02-05 21:43:15 | Orchestrator | INFO | ✓ SHUTDOWN COMPLETE
+2026-02-05 21:43:15 | Orchestrator | INFO | ============================================================
+2026-02-05 21:49:02 | Orchestrator | INFO | ============================================================
+2026-02-05 21:49:02 | Orchestrator | INFO | OdiLeague Agentic Scraper System
+2026-02-05 21:49:02 | Orchestrator | INFO | ============================================================
+2026-02-05 21:49:02 | Orchestrator | INFO | State transition: initializing → initializing
+2026-02-05 21:49:02 | Orchestrator | INFO | Initializing browser...
+2026-02-05 21:49:04 | Orchestrator | INFO | ✓ Browser initialized
+2026-02-05 21:49:04 | Orchestrator | INFO | Initializing data agent...
+2026-02-05 21:49:04 | Orchestrator | INFO | ✓ Data agent initialized
+2026-02-05 21:49:04 | Orchestrator | INFO | Navigating to https://odibets.com/odileague...
+2026-02-05 21:49:34 | Orchestrator | ERROR | Initialization failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://odibets.com/odileague", waiting until "networkidle"
+
+2026-02-05 21:49:34 | Orchestrator | INFO | ============================================================
+2026-02-05 21:49:34 | Orchestrator | INFO | SHUTTING DOWN SYSTEM
+2026-02-05 21:49:34 | Orchestrator | INFO | ============================================================
+2026-02-05 21:49:34 | Orchestrator | INFO | State transition: error → stopping
+2026-02-05 21:49:34 | Orchestrator | INFO | Stopping 0 league agents...
+2026-02-05 21:49:34 | Orchestrator | INFO | Shutting down data agent...
+2026-02-05 21:49:34 | Orchestrator | INFO | Closing browser...
+2026-02-05 21:49:35 | Orchestrator | INFO | State transition: stopping → stopped
+2026-02-05 21:49:35 | Orchestrator | INFO | ============================================================
+2026-02-05 21:49:35 | Orchestrator | INFO | ✓ SHUTDOWN COMPLETE
+2026-02-05 21:49:35 | Orchestrator | INFO | ============================================================
+2026-02-05 21:57:29 | Orchestrator | INFO | ============================================================
+2026-02-05 21:57:29 | Orchestrator | INFO | OdiLeague Agentic Scraper System
+2026-02-05 21:57:29 | Orchestrator | INFO | ============================================================
+2026-02-05 21:57:29 | Orchestrator | INFO | State transition: initializing → initializing
+2026-02-05 21:57:29 | Orchestrator | INFO | Initializing browser...
+2026-02-05 21:57:31 | Orchestrator | INFO | ✓ Browser initialized
+2026-02-05 21:57:31 | Orchestrator | INFO | Initializing data agent...
+2026-02-05 21:57:31 | Orchestrator | INFO | ✓ Data agent initialized
+2026-02-05 21:57:31 | Orchestrator | INFO | Navigating to https://odibets.com/odileague...
+2026-02-05 21:58:01 | Orchestrator | ERROR | Initialization failed: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://odibets.com/odileague", waiting until "networkidle"
+
+2026-02-05 21:58:01 | Orchestrator | INFO | ============================================================
+2026-02-05 21:58:01 | Orchestrator | INFO | SHUTTING DOWN SYSTEM
+2026-02-05 21:58:01 | Orchestrator | INFO | ============================================================
+2026-02-05 21:58:01 | Orchestrator | INFO | State transition: error → stopping
+2026-02-05 21:58:01 | Orchestrator | INFO | Stopping 0 league agents...
+2026-02-05 21:58:01 | Orchestrator | INFO | Shutting down data agent...
+2026-02-05 21:58:01 | Orchestrator | INFO | Closing browser...
+2026-02-05 21:58:01 | Orchestrator | INFO | State transition: stopping → stopped
+2026-02-05 21:58:01 | Orchestrator | INFO | ============================================================
+2026-02-05 21:58:01 | Orchestrator | INFO | ✓ SHUTDOWN COMPLETE
+2026-02-05 21:58:01 | Orchestrator | INFO | ============================================================

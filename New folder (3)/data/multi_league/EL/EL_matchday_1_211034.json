@@ -1,0 +1,130 @@
+{
+  "scrape_timestamp": "2026-02-05 21:10:34",
+  "league_info": {
+    "league": "English League",
+    "timer": "01:27"
+  },
+  "games": [
+    {
+      "home_team": "Manchester Blue",
+      "away_team": "Liverpool",
+      "home_odds": "2.59",
+      "draw_odds": "3.34",
+      "away_odds": "2.64",
+      "gg_yes": "1.68",
+      "gg_no": "2.13",
+      "home_logo": "https://images.odibets.com/img/odileague/english/manchesterblue-h.png",
+      "away_logo": "https://images.odibets.com/img/odileague/english/liverpool-a.png",
+      "game_number": 1
+    },
+    {
+      "home_team": "Aston V",
+      "away_team": "Everton",
+      "home_odds": "1.90",
+      "draw_odds": "3.44",
+      "away_odds": "4.05",
+      "gg_yes": "1.75",
+      "gg_no": "2.03",
+      "home_logo": "https://images.odibets.com/img/odileague/english/astonv-h.png",
+      "away_logo": "https://images.odibets.com/img/odileague/english/everton-a.png",
+      "game_number": 2
+    },
+    {
+      "home_team": "Fulham",
+      "away_team": "West Ham",
+      "home_odds": "1.83",
+      "draw_odds": "3.52",
+      "away_odds": "4.29",
+      "gg_yes": "1.76",
+      "gg_no": "2.01",
+      "home_logo": "https://images.odibets.com/img/odileague/english/fulham-h.png",
+      "away_logo": "https://images.odibets.com/img/odileague/english/westham-a.png",
+      "game_number": 3
+    },
+    {
+      "home_team": "Manchester Reds",
+      "away_team": "Wolves",
+      "home_odds": "2.32",
+      "draw_odds": "3.12",
+      "away_odds": "3.21",
+      "gg_yes": "1.69",
+      "gg_no": "2.12",
+      "home_logo": "https://images.odibets.com/img/odileague/english/manchesterreds-h.png",
+      "away_logo": "https://images.odibets.com/img/odileague/english/wolves-a.png",
+      "game_number": 4
+    },
+    {
+      "home_team": "Burnley",
+      "away_team": "Leeds",
+      "home_odds": "1.79",
+      "draw_odds": "3.58",
+      "away_odds": "4.41",
+      "gg_yes": "1.77",
+      "gg_no": "2.00",
+      "home_logo": "https://images.odibets.com/img/odileague/english/burnley-h.png",
+      "away_logo": "https://images.odibets.com/img/odileague/english/leeds-a.png",
+      "game_number": 5
+    },
+    {
+      "home_team": "Sheffield U",
+      "away_team": "London Reds",
+      "home_odds": "2.72",
+      "draw_odds": "3.43",
+      "away_odds": "2.47",
+      "gg_yes": "1.68",
+      "gg_no": "2.14",
+      "home_logo": "https://images.odibets.com/img/odileague/english/sheffieldu-h.png",
+      "away_logo": "https://images.odibets.com/img/odileague/english/londonreds-a.png",
+      "game_number": 6
+    },
+    {
+      "home_team": "London Blues",
+      "away_team": "West Brom",
+      "home_odds": "2.00",
+      "draw_odds": "3.33",
+      "away_odds": "3.78",
+      "gg_yes": "1.73",
+      "gg_no": "2.06",
+      "home_logo": "https://images.odibets.com/img/odileague/english/londonblues-h.png",
+      "away_logo": "https://images.odibets.com/img/odileague/english/westbrom-a.png",
+      "game_number": 7
+    },
+    {
+      "home_team": "Southampton",
+      "away_team": "Newcastle",
+      "home_odds": "3.58",
+      "draw_odds": "3.95",
+      "away_odds": "1.88",
+      "gg_yes": "1.67",
+      "gg_no": "2.15",
+      "home_logo": "https://images.odibets.com/img/odileague/english/southampton-h.png",
+      "away_logo": "https://images.odibets.com/img/odileague/english/newcastle-a.png",
+      "game_number": 8
+    },
+    {
+      "home_team": "Leicester",
+      "away_team": "Tottenham",
+      "home_odds": "2.72",
+      "draw_odds": "3.46",
+      "away_odds": "2.46",
+      "gg_yes": "1.68",
+      "gg_no": "2.13",
+      "home_logo": "https://images.odibets.com/img/odileague/english/leicester-h.png",
+      "away_logo": "https://images.odibets.com/img/odileague/english/tottenham-a.png",
+      "game_number": 9
+    },
+    {
+      "home_team": "Brighton",
+      "away_team": "Palace",
+      "home_odds": "2.11",
+      "draw_odds": "3.24",
+      "away_odds": "3.54",
+      "gg_yes": "1.72",
+      "gg_no": "2.07",
+      "home_logo": "https://images.odibets.com/img/odileague/english/brighton-h.png",
+      "away_logo": "https://images.odibets.com/img/odileague/english/palace-a.png",
+      "game_number": 10
+    }
+  ],
+  "total_games": 10
+}

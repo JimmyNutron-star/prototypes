@@ -1,0 +1,31 @@
+2026-02-05 18:02:24 - results - INFO - Browser initialized successfully
+2026-02-05 18:02:24 - results - INFO - Starting results scrape...
+2026-02-05 18:02:24 - results - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 18:02:56 - results - INFO - Page loaded successfully: https://odibets.com/odileague
+2026-02-05 18:02:59 - results - INFO - Popup closed
+2026-02-05 18:03:00 - results - INFO - Switched to Results tab
+2026-02-05 18:03:00 - results - ERROR - Error switching to results: name 'time' is not defined
+2026-02-05 18:03:00 - results - ERROR - Failed to switch to Results tab
+2026-02-05 18:03:02 - results - INFO - Browser closed
+2026-02-05 18:29:04 - results - INFO - Browser initialized successfully
+2026-02-05 18:29:04 - results - INFO - Starting results scrape...
+2026-02-05 18:29:04 - results - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 18:29:25 - results - INFO - Page loaded successfully: https://odibets.com/odileague
+2026-02-05 18:29:28 - results - INFO - Popup closed
+2026-02-05 18:29:29 - results - INFO - Switched to Results tab
+2026-02-05 18:29:32 - results - INFO - League: English League
+2026-02-05 18:29:32 - results - INFO - Found 38 results sections
+2026-02-05 18:29:41 - results - INFO - Successfully extracted 5 results weeks
+2026-02-05 18:29:41 - results - INFO - Data saved as json: C:\Users\USER\Desktop\prototypes-main\New folder (3)\data\results\results_20260205_182941.json
+2026-02-05 18:29:41 - results - INFO - Data saved as csv: C:\Users\USER\Desktop\prototypes-main\New folder (3)\data\results\results_20260205_182941.csv
+2026-02-05 18:29:44 - results - INFO - Browser closed
+2026-02-05 18:46:42 - results - INFO - Browser initialized successfully
+2026-02-05 18:46:42 - results - INFO - Starting results scrape...
+2026-02-05 18:46:42 - results - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 18:47:01 - results - INFO - Page loaded successfully: https://odibets.com/odileague
+2026-02-05 18:47:04 - results - INFO - Popup closed
+2026-02-05 18:47:05 - results - INFO - Switched to Results tab
+2026-02-05 18:47:08 - results - INFO - League: English League
+2026-02-05 18:47:09 - results - INFO - Found 38 results sections
+2026-02-05 18:47:20 - results - INFO - Successfully extracted 5 results weeks
+2026-02-05 18:47:22 - results - INFO - Browser closed

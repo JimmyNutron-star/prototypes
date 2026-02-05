@@ -1,0 +1,9 @@
+2026-02-05 21:43:44 | Test-DataAgent | INFO | ============================================================
+2026-02-05 21:43:44 | Test-DataAgent | INFO | TEST 2: Data Agent
+2026-02-05 21:43:44 | Test-DataAgent | INFO | ============================================================
+2026-02-05 21:43:44 | Test-DataAgent | INFO | ✓ Data agent initialized
+2026-02-05 21:43:44 | Test-DataAgent | INFO | ✓ Matchday data saved
+2026-02-05 21:43:44 | Test-DataAgent | INFO | ✓ Data retrieved successfully
+2026-02-05 21:43:44 | Test-DataAgent | INFO | ✓ Stats: {'total_matches': 1, 'total_results': 0, 'validated_matches': 0}
+2026-02-05 21:43:44 | Test-DataAgent | INFO | ✓ Data agent shutdown
+2026-02-05 21:43:44 | Test-DataAgent | INFO | ✓ TEST 2 PASSED

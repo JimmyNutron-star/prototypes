@@ -1,0 +1,7 @@
+2026-02-05 21:44:20 | Test-Matchday | INFO | ============================================================
+2026-02-05 21:44:20 | Test-Matchday | INFO | TEST 4: Matchday Scraping
+2026-02-05 21:44:20 | Test-Matchday | INFO | ============================================================
+2026-02-05 21:44:53 | Test-Matchday | ERROR | ✗ TEST 4 FAILED: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://odibets.com/odileague", waiting until "networkidle"
+

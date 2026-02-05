@@ -1,0 +1,97 @@
+2026-02-05 19:24:28 - live_match - INFO - Browser initialized successfully
+2026-02-05 19:24:28 - live_match - INFO - Starting live match tracking...
+2026-02-05 19:24:28 - live_match - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 19:24:54 - live_match - INFO - Page loaded successfully: https://odibets.com/odileague
+2026-02-05 19:24:57 - live_match - INFO - Popup closed
+2026-02-05 19:24:58 - live_match - INFO - Already on LIVE tab
+2026-02-05 19:25:08 - live_match - WARNING - Elements not found: .play.show .gm
+2026-02-05 19:25:08 - live_match - WARNING - No live match containers found
+2026-02-05 19:25:08 - live_match - WARNING - No live matches found
+2026-02-05 19:25:10 - live_match - INFO - Browser closed
+2026-02-05 19:38:53 - live_match - INFO - Browser initialized successfully
+2026-02-05 19:38:56 - live_match - INFO - Browser closed
+2026-02-05 19:40:34 - live_match - INFO - Browser initialized successfully
+2026-02-05 19:40:36 - live_match - INFO - Browser closed
+2026-02-05 19:57:38 - live_match - INFO - Browser initialized successfully
+2026-02-05 19:57:38 - live_match - INFO - Waiting for LIVE to start tracking...
+2026-02-05 19:57:38 - live_match - INFO - Will wait up to 3 minutes for LIVE
+2026-02-05 19:57:38 - live_match - INFO - Will track for 3 minutes after LIVE
+2026-02-05 19:57:38 - live_match - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 19:58:09 - live_match - INFO - Page loaded successfully: https://odibets.com/odileague
+2026-02-05 19:58:11 - live_match - INFO - Popup closed
+2026-02-05 19:58:12 - live_match - INFO - Current timer: 01:47
+2026-02-05 19:58:12 - live_match - INFO - Monitoring timer until LIVE...
+2026-02-05 19:58:28 - live_match - INFO - No popup found
+2026-02-05 19:58:28 - live_match - INFO - Timer: 01:31
+2026-02-05 19:58:38 - live_match - INFO - Timer: 01:21
+2026-02-05 19:58:48 - live_match - INFO - Timer: 01:11
+2026-02-05 19:58:58 - live_match - INFO - Timer: 01:01
+2026-02-05 19:59:08 - live_match - INFO - Timer: 00:51
+2026-02-05 19:59:18 - live_match - INFO - Timer: 00:41
+2026-02-05 19:59:28 - live_match - INFO - Timer: 00:31
+2026-02-05 19:59:39 - live_match - INFO - Timer: 00:21
+2026-02-05 19:59:49 - live_match - INFO - Timer: 00:11
+2026-02-05 19:59:59 - live_match - INFO - Timer: 02:01
+2026-02-05 20:00:09 - live_match - INFO - Timer: 01:51
+2026-02-05 20:00:19 - live_match - INFO - Timer: 01:41
+2026-02-05 20:00:24 - live_match - INFO - Interrupted by user
+2026-02-05 20:00:24 - live_match - INFO - Live match tracking stopped
+2026-02-05 20:36:17 - live_match - INFO - Browser initialized successfully
+2026-02-05 20:36:17 - live_match - INFO - Waiting for LIVE to start tracking...
+2026-02-05 20:36:17 - live_match - INFO - Will wait up to 3 minutes for LIVE
+2026-02-05 20:36:17 - live_match - INFO - Will track for 3 minutes after LIVE
+2026-02-05 20:36:17 - live_match - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 20:37:00 - live_match - INFO - Page loaded successfully: https://odibets.com/odileague
+2026-02-05 20:37:02 - live_match - INFO - Popup closed
+2026-02-05 20:37:03 - live_match - INFO - Current timer: 00:56
+2026-02-05 20:37:03 - live_match - INFO - Monitoring timer until LIVE...
+2026-02-05 20:37:34 - live_match - INFO - No popup found
+2026-02-05 20:37:34 - live_match - INFO - Timer: 00:26
+2026-02-05 20:37:44 - live_match - INFO - Timer: 00:16
+2026-02-05 20:37:54 - live_match - INFO - Timer: 02:06
+2026-02-05 20:37:57 - live_match - INFO - Interrupted by user
+2026-02-05 20:37:57 - live_match - INFO - Live match tracking stopped
+2026-02-05 20:38:13 - live_match - INFO - Browser closed
+2026-02-05 20:46:44 - live_match - INFO - Browser initialized successfully
+2026-02-05 20:46:44 - live_match - INFO - Waiting for LIVE to start tracking...
+2026-02-05 20:46:44 - live_match - INFO - Will wait up to 3 minutes for LIVE
+2026-02-05 20:46:44 - live_match - INFO - Will track for 3 minutes after LIVE
+2026-02-05 20:46:44 - live_match - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 20:47:09 - live_match - INFO - Page loaded successfully: https://odibets.com/odileague
+2026-02-05 20:47:12 - live_match - INFO - Popup closed
+2026-02-05 20:47:13 - live_match - INFO - Current timer: 00:47
+2026-02-05 20:47:13 - live_match - INFO - Monitoring timer until LIVE...
+2026-02-05 20:47:28 - live_match - INFO - No popup found
+2026-02-05 20:47:28 - live_match - INFO - Timer: 00:31
+2026-02-05 20:47:38 - live_match - INFO - Timer: 00:21
+2026-02-05 20:47:49 - live_match - INFO - Timer: 00:11
+2026-02-05 20:47:59 - live_match - INFO - Timer: 02:01
+2026-02-05 20:48:09 - live_match - INFO - Timer: 01:51
+2026-02-05 20:48:12 - live_match - INFO - Interrupted by user
+2026-02-05 20:48:12 - live_match - INFO - Live match tracking stopped
+2026-02-05 20:48:28 - live_match - INFO - Browser closed
+2026-02-05 20:51:08 - live_match - INFO - Browser initialized successfully
+2026-02-05 20:51:08 - live_match - INFO - Waiting for LIVE to start tracking...
+2026-02-05 20:51:08 - live_match - INFO - Will wait up to 3 minutes for LIVE
+2026-02-05 20:51:08 - live_match - INFO - Will track for 3 minutes after LIVE
+2026-02-05 20:51:08 - live_match - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 20:51:33 - live_match - INFO - Page loaded successfully: https://odibets.com/odileague
+2026-02-05 20:51:35 - live_match - INFO - Popup closed
+2026-02-05 20:51:36 - live_match - INFO - Current timer: 00:24
+2026-02-05 20:51:36 - live_match - INFO - Monitoring timer until LIVE...
+2026-02-05 20:51:49 - live_match - INFO - No popup found
+2026-02-05 20:51:49 - live_match - INFO - Timer: 00:11
+2026-02-05 20:51:59 - live_match - INFO - Timer: 02:01
+2026-02-05 20:52:05 - live_match - INFO - Interrupted by user
+2026-02-05 20:52:05 - live_match - INFO - Live match tracking stopped
+2026-02-05 20:52:21 - live_match - INFO - Browser closed
+2026-02-05 20:53:05 - live_match - INFO - Browser initialized successfully
+2026-02-05 20:53:05 - live_match - INFO - Starting live match tracking...
+2026-02-05 20:53:05 - live_match - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 20:53:44 - live_match - INFO - Page loaded successfully: https://odibets.com/odileague
+2026-02-05 20:53:46 - live_match - INFO - Popup closed
+2026-02-05 20:53:47 - live_match - INFO - Already on LIVE tab
+2026-02-05 20:53:57 - live_match - WARNING - Elements not found: .play.show .gm
+2026-02-05 20:53:57 - live_match - WARNING - No live match containers found
+2026-02-05 20:53:57 - live_match - WARNING - No live matches found
+2026-02-05 20:53:59 - live_match - INFO - Browser closed

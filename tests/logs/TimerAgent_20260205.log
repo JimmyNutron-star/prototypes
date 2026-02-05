@@ -1,0 +1,283 @@
+2026-02-05 22:03:03 | TimerAgent | INFO | TimerAgent initialized
+2026-02-05 22:03:15 | TimerAgent | INFO | State transition: initializing → running
+2026-02-05 22:03:15 | TimerAgent | INFO | TimerAgent started - monitoring timers
+2026-02-05 22:03:16 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=1 | timer=22:06
+2026-02-05 22:03:16 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=1
+2026-02-05 22:03:16 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=2 | timer=22:08
+2026-02-05 22:03:16 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=2
+2026-02-05 22:03:16 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=3 | timer=22:10
+2026-02-05 22:03:16 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=3
+2026-02-05 22:03:16 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=4 | timer=22:12
+2026-02-05 22:03:16 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=4
+2026-02-05 22:03:16 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=5 | timer=22:14
+2026-02-05 22:03:16 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=5
+2026-02-05 22:03:16 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=6 | timer=22:16
+2026-02-05 22:03:16 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=6
+2026-02-05 22:03:16 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=7 | timer=22:18
+2026-02-05 22:03:16 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=7
+2026-02-05 22:03:16 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=8 | timer=22:20
+2026-02-05 22:03:16 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=8
+2026-02-05 22:03:16 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=9 | timer=22:22
+2026-02-05 22:03:16 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=9
+2026-02-05 22:03:16 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=10 | timer=22:24
+2026-02-05 22:03:16 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=10
+2026-02-05 22:03:16 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=11 | timer=22:26
+2026-02-05 22:03:16 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=11
+2026-02-05 22:03:16 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=12 | timer=22:28
+2026-02-05 22:03:16 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=12
+2026-02-05 22:03:16 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=13 | timer=22:30
+2026-02-05 22:03:16 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=13
+2026-02-05 22:03:16 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=14 | timer=22:32
+2026-02-05 22:03:16 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=14
+2026-02-05 22:03:16 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=15 | timer=22:34
+2026-02-05 22:03:17 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=15
+2026-02-05 22:03:17 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=16 | timer=22:36
+2026-02-05 22:03:17 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=16
+2026-02-05 22:03:17 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=17 | timer=22:38
+2026-02-05 22:03:17 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=17
+2026-02-05 22:03:17 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=18 | timer=22:40
+2026-02-05 22:03:17 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=18
+2026-02-05 22:03:17 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=19 | timer=22:42
+2026-02-05 22:03:17 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=19
+2026-02-05 22:03:17 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=20 | timer=22:44
+2026-02-05 22:03:17 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=20
+2026-02-05 22:03:17 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=21 | timer=22:46
+2026-02-05 22:03:17 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=21
+2026-02-05 22:03:17 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=22 | timer=22:48
+2026-02-05 22:03:17 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=22
+2026-02-05 22:03:17 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=23 | timer=22:50
+2026-02-05 22:03:17 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=23
+2026-02-05 22:03:17 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=24 | timer=22:52
+2026-02-05 22:03:17 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=24
+2026-02-05 22:03:17 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=25 | timer=22:54
+2026-02-05 22:03:17 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=25
+2026-02-05 22:03:17 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=26 | timer=22:56
+2026-02-05 22:03:17 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=26
+2026-02-05 22:03:17 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=27 | timer=22:58
+2026-02-05 22:03:17 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=27
+2026-02-05 22:03:17 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=28 | timer=23:00
+2026-02-05 22:03:17 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=28
+2026-02-05 22:03:17 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=29 | timer=23:02
+2026-02-05 22:03:17 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=29
+2026-02-05 22:03:17 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=30 | timer=23:04
+2026-02-05 22:03:17 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=30
+2026-02-05 22:03:17 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=31 | timer=23:06
+2026-02-05 22:03:17 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=31
+2026-02-05 22:03:17 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=32 | timer=23:08
+2026-02-05 22:03:17 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=32
+2026-02-05 22:03:17 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=33 | timer=23:10
+2026-02-05 22:03:17 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=33
+2026-02-05 22:03:17 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=34 | timer=23:12
+2026-02-05 22:03:17 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=34
+2026-02-05 22:03:17 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=35 | timer=23:14
+2026-02-05 22:03:17 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=35
+2026-02-05 22:03:17 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=36 | timer=23:16
+2026-02-05 22:03:17 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=36
+2026-02-05 22:03:17 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=37 | timer=23:18
+2026-02-05 22:03:17 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=37
+2026-02-05 22:03:17 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=38 | timer=23:20
+2026-02-05 22:03:17 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=38
+2026-02-05 22:03:17 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=39 | timer=23:22
+2026-02-05 22:03:17 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=39
+2026-02-05 22:03:17 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=40 | timer=23:24
+2026-02-05 22:03:17 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=40
+2026-02-05 22:03:18 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=41 | timer=23:26
+2026-02-05 22:03:18 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=41
+2026-02-05 22:03:18 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=42 | timer=23:28
+2026-02-05 22:03:18 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=42
+2026-02-05 22:03:18 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=43 | timer=23:30
+2026-02-05 22:03:18 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=43
+2026-02-05 22:03:18 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=44 | timer=23:32
+2026-02-05 22:03:18 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=44
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=6 | timer=22:18
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=6
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=7 | timer=22:20
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=7
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=8 | timer=22:22
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=8
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=9 | timer=22:24
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=9
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=10 | timer=22:26
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=10
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=11 | timer=22:28
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=11
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=12 | timer=22:30
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=12
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=13 | timer=22:32
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=13
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=14 | timer=22:34
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=14
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=15 | timer=22:36
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=15
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=16 | timer=22:38
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=16
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=17 | timer=22:40
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=17
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=18 | timer=22:42
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=18
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=19 | timer=22:44
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=19
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=20 | timer=22:46
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=20
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=21 | timer=22:48
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=21
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=22 | timer=22:50
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=22
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=23 | timer=22:52
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=23
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=24 | timer=22:54
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=24
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=25 | timer=22:56
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=25
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=26 | timer=22:58
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=26
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=27 | timer=23:00
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=27
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=28 | timer=23:02
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=28
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=29 | timer=23:04
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=29
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=30 | timer=23:06
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=30
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=31 | timer=23:08
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=31
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=32 | timer=23:10
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=32
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=33 | timer=23:12
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=33
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=34 | timer=23:14
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=34
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=35 | timer=23:16
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=35
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=36 | timer=23:18
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=36
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=37 | timer=23:20
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=37
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=38 | timer=23:22
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=38
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=39 | timer=23:24
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=39
+2026-02-05 22:03:49 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=40 | timer=23:26
+2026-02-05 22:03:49 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=40
+2026-02-05 22:03:50 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=41 | timer=23:28
+2026-02-05 22:03:50 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=41
+2026-02-05 22:03:50 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=42 | timer=23:30
+2026-02-05 22:03:50 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=42
+2026-02-05 22:03:50 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=43 | timer=23:32
+2026-02-05 22:03:50 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=43
+2026-02-05 22:03:50 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=02:09
+2026-02-05 22:03:50 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:03:50 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=1 | timer=22:08
+2026-02-05 22:03:50 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=1
+2026-02-05 22:03:50 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=2 | timer=22:10
+2026-02-05 22:03:50 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=2
+2026-02-05 22:03:50 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=3 | timer=22:12
+2026-02-05 22:03:50 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=3
+2026-02-05 22:03:50 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=4 | timer=22:14
+2026-02-05 22:03:50 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=4
+2026-02-05 22:03:50 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=5 | timer=22:16
+2026-02-05 22:03:50 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=5
+2026-02-05 22:03:51 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=02:08
+2026-02-05 22:03:51 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:03:52 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=02:07
+2026-02-05 22:03:52 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:03:53 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=02:06
+2026-02-05 22:03:53 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:03:54 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=02:05
+2026-02-05 22:03:54 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:03:55 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=02:04
+2026-02-05 22:03:55 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:03:56 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=02:03
+2026-02-05 22:03:56 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:03:57 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=02:02
+2026-02-05 22:03:57 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:03:58 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=02:01
+2026-02-05 22:03:58 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:03:59 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=02:00
+2026-02-05 22:03:59 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:00 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:59
+2026-02-05 22:04:00 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:01 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:58
+2026-02-05 22:04:01 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:02 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:57
+2026-02-05 22:04:02 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:03 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:56
+2026-02-05 22:04:03 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:04 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:55
+2026-02-05 22:04:04 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:05 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:54
+2026-02-05 22:04:05 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:06 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:53
+2026-02-05 22:04:06 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:08 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:52
+2026-02-05 22:04:08 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:09 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:51
+2026-02-05 22:04:09 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:10 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:50
+2026-02-05 22:04:10 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:11 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:49
+2026-02-05 22:04:11 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:12 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:48
+2026-02-05 22:04:12 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:13 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:47
+2026-02-05 22:04:13 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:14 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:45
+2026-02-05 22:04:14 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:15 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:44
+2026-02-05 22:04:15 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:16 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:43
+2026-02-05 22:04:16 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:17 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:42
+2026-02-05 22:04:17 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:18 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:41
+2026-02-05 22:04:18 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:19 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:40
+2026-02-05 22:04:19 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:20 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:39
+2026-02-05 22:04:20 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:21 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:38
+2026-02-05 22:04:21 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:22 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:37
+2026-02-05 22:04:22 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:23 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:36
+2026-02-05 22:04:23 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:24 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:35
+2026-02-05 22:04:24 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:25 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:34
+2026-02-05 22:04:25 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:27 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:33
+2026-02-05 22:04:27 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:28 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:32
+2026-02-05 22:04:28 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:29 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:30
+2026-02-05 22:04:29 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:30 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:29
+2026-02-05 22:04:30 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:31 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:28
+2026-02-05 22:04:31 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:33 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:27
+2026-02-05 22:04:33 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:34 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:26
+2026-02-05 22:04:34 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:35 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:25
+2026-02-05 22:04:35 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:36 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:24
+2026-02-05 22:04:36 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:37 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:22
+2026-02-05 22:04:37 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:38 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:21
+2026-02-05 22:04:38 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:39 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:20
+2026-02-05 22:04:39 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:41 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:19
+2026-02-05 22:04:41 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:42 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:18
+2026-02-05 22:04:42 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:43 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:17
+2026-02-05 22:04:43 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:44 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:16
+2026-02-05 22:04:44 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:45 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:15
+2026-02-05 22:04:45 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0
+2026-02-05 22:04:46 | TimerAgent | INFO | Matchday scraping threshold reached | league=english | index=0 | timer=01:14
+2026-02-05 22:04:46 | TimerAgent | INFO | Action: Event emitted: MATCHDAY_START | league=english | index=0

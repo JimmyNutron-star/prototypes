@@ -126,3 +126,46 @@ class TimerMonitor(BaseScraper):
         summary += f"Unique timer values: {len(unique_timers)}\n"
         
         return summary
+
+    def wait_for_live(self, check_interval=10, timeout_minutes=30):
+        """
+        Wait for timer to go LIVE and return when it happens
+        Returns: (success, live_timer, elapsed_seconds)
+        """
+        self.logger.info(f"Waiting for LIVE (timeout: {timeout_minutes} minutes)")
+        
+        start_time = time.time()
+        timeout_seconds = timeout_minutes * 60
+        check_count = 0
+        
+        self.last_timer_value = None
+        
+        try:
+            while time.time() - start_time < timeout_seconds:
+                current_timer = self.get_current_timer()
+                check_count += 1
+                
+                if current_timer:
+                    # Log timer changes
+                    if self.last_timer_value != current_timer:
+                        self.logger.info(f"Timer: {current_timer}")
+                        self.last_timer_value = current_timer
+                    
+                    # Check if LIVE
+                    if self.is_timer_live(current_timer):
+                        elapsed = time.time() - start_time
+                        self.logger.info(f"🎯 Timer went LIVE at {current_timer} after {elapsed:.1f} seconds")
+                        return True, current_timer, elapsed
+                
+                # Wait for next check
+                time.sleep(check_interval)
+            
+            # Timeout reached
+            elapsed = time.time() - start_time
+            self.logger.warning(f"Timeout reached after {elapsed:.1f} seconds")
+            return False, current_timer, elapsed
+            
+        except Exception as e:
+            self.logger.error(f"Error waiting for LIVE: {e}")
+            elapsed = time.time() - start_time
+            return False, None, elapsed

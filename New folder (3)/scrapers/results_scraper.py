@@ -3,6 +3,8 @@ Results scraper - extracts historical match results
 """
 
 from datetime import datetime
+import time
+from selenium.webdriver.common.by import By  # ADD THIS IMPORT
 from scrapers.base_scraper import BaseScraper
 from config import ODILEAGUE_URL
 

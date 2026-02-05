@@ -1,0 +1,53 @@
+2026-02-05 22:04:56 | MatchdayAgent-english-0 | INFO | MatchdayAgent initialized | match_id=test_match_001 | match_index=0 | league=english
+2026-02-05 22:05:16 | MatchdayAgent-english-0 | INFO | State transition: initializing → running
+2026-02-05 22:05:16 | MatchdayAgent-english-0 | INFO | MatchdayAgent started | start_time=2026-02-05 22:05:16.054062
+2026-02-05 22:05:16 | MatchdayAgent-english-0 | ERROR | Error extracting teams: TeamInfo.__init__() got an unexpected keyword argument 'extracted_at'
+2026-02-05 22:05:16 | MatchdayAgent-english-0 | WARNING | Failed to extract team information
+2026-02-05 22:05:18 | MatchdayAgent-english-0 | ERROR | Error extracting teams: TeamInfo.__init__() got an unexpected keyword argument 'extracted_at'
+2026-02-05 22:05:18 | MatchdayAgent-english-0 | WARNING | Failed to extract team information
+2026-02-05 22:05:20 | MatchdayAgent-english-0 | ERROR | Error extracting teams: TeamInfo.__init__() got an unexpected keyword argument 'extracted_at'
+2026-02-05 22:05:20 | MatchdayAgent-english-0 | WARNING | Failed to extract team information
+2026-02-05 22:05:22 | MatchdayAgent-english-0 | ERROR | Error extracting teams: TeamInfo.__init__() got an unexpected keyword argument 'extracted_at'
+2026-02-05 22:05:22 | MatchdayAgent-english-0 | WARNING | Failed to extract team information
+2026-02-05 22:05:24 | MatchdayAgent-english-0 | ERROR | Error extracting teams: TeamInfo.__init__() got an unexpected keyword argument 'extracted_at'
+2026-02-05 22:05:24 | MatchdayAgent-english-0 | WARNING | Failed to extract team information
+2026-02-05 22:05:26 | MatchdayAgent-english-0 | ERROR | Error extracting teams: TeamInfo.__init__() got an unexpected keyword argument 'extracted_at'
+2026-02-05 22:05:26 | MatchdayAgent-english-0 | WARNING | Failed to extract team information
+2026-02-05 22:05:28 | MatchdayAgent-english-0 | ERROR | Error extracting teams: TeamInfo.__init__() got an unexpected keyword argument 'extracted_at'
+2026-02-05 22:05:28 | MatchdayAgent-english-0 | WARNING | Failed to extract team information
+2026-02-05 22:05:30 | MatchdayAgent-english-0 | ERROR | Error extracting teams: TeamInfo.__init__() got an unexpected keyword argument 'extracted_at'
+2026-02-05 22:05:30 | MatchdayAgent-english-0 | WARNING | Failed to extract team information
+2026-02-05 22:05:32 | MatchdayAgent-english-0 | ERROR | Error extracting teams: TeamInfo.__init__() got an unexpected keyword argument 'extracted_at'
+2026-02-05 22:05:32 | MatchdayAgent-english-0 | WARNING | Failed to extract team information
+2026-02-05 22:05:34 | MatchdayAgent-english-0 | ERROR | Error extracting teams: TeamInfo.__init__() got an unexpected keyword argument 'extracted_at'
+2026-02-05 22:05:34 | MatchdayAgent-english-0 | WARNING | Failed to extract team information
+2026-02-05 22:05:36 | MatchdayAgent-english-0 | ERROR | Error extracting teams: TeamInfo.__init__() got an unexpected keyword argument 'extracted_at'
+2026-02-05 22:05:36 | MatchdayAgent-english-0 | WARNING | Failed to extract team information
+2026-02-05 22:05:38 | MatchdayAgent-english-0 | ERROR | Error extracting teams: TeamInfo.__init__() got an unexpected keyword argument 'extracted_at'
+2026-02-05 22:05:38 | MatchdayAgent-english-0 | WARNING | Failed to extract team information
+2026-02-05 22:05:40 | MatchdayAgent-english-0 | ERROR | Error extracting teams: TeamInfo.__init__() got an unexpected keyword argument 'extracted_at'
+2026-02-05 22:05:40 | MatchdayAgent-english-0 | WARNING | Failed to extract team information
+2026-02-05 22:05:42 | MatchdayAgent-english-0 | ERROR | Error extracting teams: TeamInfo.__init__() got an unexpected keyword argument 'extracted_at'
+2026-02-05 22:05:42 | MatchdayAgent-english-0 | WARNING | Failed to extract team information
+2026-02-05 22:05:44 | MatchdayAgent-english-0 | ERROR | Error extracting teams: TeamInfo.__init__() got an unexpected keyword argument 'extracted_at'
+2026-02-05 22:05:44 | MatchdayAgent-english-0 | WARNING | Failed to extract team information
+2026-02-05 22:05:46 | MatchdayAgent-english-0 | ERROR | Error extracting teams: TeamInfo.__init__() got an unexpected keyword argument 'extracted_at'
+2026-02-05 22:05:46 | MatchdayAgent-english-0 | WARNING | Failed to extract team information
+2026-02-05 22:05:48 | MatchdayAgent-english-0 | ERROR | Error extracting teams: TeamInfo.__init__() got an unexpected keyword argument 'extracted_at'
+2026-02-05 22:05:48 | MatchdayAgent-english-0 | WARNING | Failed to extract team information
+2026-02-05 22:05:50 | MatchdayAgent-english-0 | ERROR | Error extracting teams: TeamInfo.__init__() got an unexpected keyword argument 'extracted_at'
+2026-02-05 22:05:50 | MatchdayAgent-english-0 | WARNING | Failed to extract team information
+2026-02-05 22:05:55 | MatchdayAgent-english-0 | ERROR | Error extracting teams: TeamInfo.__init__() got an unexpected keyword argument 'extracted_at'
+2026-02-05 22:05:55 | MatchdayAgent-english-0 | WARNING | Failed to extract team information
+2026-02-05 22:06:00 | MatchdayAgent-english-0 | ERROR | Error extracting teams: TeamInfo.__init__() got an unexpected keyword argument 'extracted_at'
+2026-02-05 22:06:00 | MatchdayAgent-english-0 | WARNING | Failed to extract team information
+2026-02-05 22:06:05 | MatchdayAgent-english-0 | ERROR | Error extracting teams: TeamInfo.__init__() got an unexpected keyword argument 'extracted_at'
+2026-02-05 22:06:05 | MatchdayAgent-english-0 | WARNING | Failed to extract team information
+2026-02-05 22:06:10 | MatchdayAgent-english-0 | ERROR | Error extracting teams: TeamInfo.__init__() got an unexpected keyword argument 'extracted_at'
+2026-02-05 22:06:10 | MatchdayAgent-english-0 | WARNING | Failed to extract team information
+2026-02-05 22:06:15 | MatchdayAgent-english-0 | ERROR | Error extracting teams: TeamInfo.__init__() got an unexpected keyword argument 'extracted_at'
+2026-02-05 22:06:15 | MatchdayAgent-english-0 | WARNING | Failed to extract team information
+2026-02-05 22:06:16 | MatchdayAgent-english-0 | INFO | State transition: running → stopping
+2026-02-05 22:06:16 | MatchdayAgent-english-0 | INFO | State transition: stopping → stopped
+2026-02-05 22:06:16 | MatchdayAgent-english-0 | INFO | MatchdayAgent stopped | metrics={'scrapes_completed': 0, 'scrapes_failed': 0, 'scrapes_skipped': 0, 'last_scrape_time': None, 'data_points_collected': 0, 'last_successful_scrape': None, 'total_runtime': 0.0} | total_runtime=0.00s
+2026-02-05 22:06:16 | MatchdayAgent-english-0 | INFO | Scrape loop cancelled

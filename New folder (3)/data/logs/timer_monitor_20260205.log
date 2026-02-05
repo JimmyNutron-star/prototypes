@@ -1,0 +1,100 @@
+2026-02-05 18:00:06 - timer_monitor - INFO - Browser initialized successfully
+2026-02-05 18:00:06 - timer_monitor - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 18:00:30 - timer_monitor - INFO - Page loaded successfully: https://odibets.com/odileague
+2026-02-05 18:00:33 - timer_monitor - INFO - Popup closed
+2026-02-05 18:00:34 - timer_monitor - INFO - Starting timer monitoring (interval: 2s)
+2026-02-05 18:00:34 - timer_monitor - INFO - Timer: 01:26 (Live in 86s)
+2026-02-05 18:00:36 - timer_monitor - INFO - Timer: 01:24 (Live in 84s)
+2026-02-05 18:00:38 - timer_monitor - INFO - Timer: 01:22 (Live in 82s)
+2026-02-05 18:00:40 - timer_monitor - INFO - Timer: 01:19 (Live in 79s)
+2026-02-05 18:00:42 - timer_monitor - INFO - Timer: 01:17 (Live in 77s)
+2026-02-05 18:00:42 - timer_monitor - INFO - Max checks reached (5)
+2026-02-05 18:00:44 - timer_monitor - INFO - Browser closed
+2026-02-05 18:34:08 - timer_monitor - INFO - Browser initialized successfully
+2026-02-05 18:34:08 - timer_monitor - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 18:34:44 - timer_monitor - INFO - Page loaded successfully: https://odibets.com/odileague
+2026-02-05 18:34:46 - timer_monitor - INFO - Popup closed
+2026-02-05 18:34:47 - timer_monitor - INFO - Starting timer monitoring (interval: 10s)
+2026-02-05 18:34:47 - timer_monitor - INFO - Timer: 01:13 (Live in 73s)
+2026-02-05 18:34:58 - timer_monitor - INFO - Timer: 01:02 (Live in 62s)
+2026-02-05 18:35:08 - timer_monitor - INFO - Timer: 00:52 (Live in 52s)
+2026-02-05 18:35:18 - timer_monitor - INFO - Timer: 00:42 (Live in 42s)
+2026-02-05 18:35:28 - timer_monitor - INFO - Timer: 00:32 (Live in 32s)
+2026-02-05 18:35:38 - timer_monitor - INFO - Timer: 00:22 (Live in 22s)
+2026-02-05 18:35:48 - timer_monitor - INFO - Timer: 00:12 (Live in 12s)
+2026-02-05 18:35:58 - timer_monitor - INFO - Timer: 02:02 (Live in 122s)
+2026-02-05 18:36:08 - timer_monitor - INFO - Timer: 01:52 (Live in 112s)
+2026-02-05 18:36:18 - timer_monitor - INFO - Timer: 01:42 (Live in 102s)
+2026-02-05 18:36:28 - timer_monitor - INFO - Timer: 01:32 (Live in 92s)
+2026-02-05 18:36:38 - timer_monitor - INFO - Timer: 01:22 (Live in 82s)
+2026-02-05 18:36:48 - timer_monitor - INFO - Timer: 01:12 (Live in 72s)
+2026-02-05 18:36:58 - timer_monitor - INFO - Timer: 01:01 (Live in 61s)
+2026-02-05 18:37:08 - timer_monitor - INFO - Timer: 00:51 (Live in 51s)
+2026-02-05 18:37:19 - timer_monitor - INFO - Timer: 00:41 (Live in 41s)
+2026-02-05 18:37:29 - timer_monitor - INFO - Timer: 00:31 (Live in 31s)
+2026-02-05 18:37:39 - timer_monitor - INFO - Timer: 00:21 (Live in 21s)
+2026-02-05 18:37:49 - timer_monitor - INFO - Timer: 00:11 (Live in 11s)
+2026-02-05 18:37:59 - timer_monitor - INFO - Timer: 02:01 (Live in 121s)
+2026-02-05 18:38:09 - timer_monitor - INFO - Timer: 01:51 (Live in 111s)
+2026-02-05 18:38:12 - timer_monitor - INFO - Monitoring interrupted by user
+2026-02-05 18:41:51 - timer_monitor - INFO - Browser initialized successfully
+2026-02-05 18:41:51 - timer_monitor - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 18:42:17 - timer_monitor - INFO - Page loaded successfully: https://odibets.com/odileague
+2026-02-05 18:42:20 - timer_monitor - INFO - Popup closed
+2026-02-05 18:42:21 - timer_monitor - INFO - Starting timer monitoring (interval: 10s)
+2026-02-05 18:42:21 - timer_monitor - INFO - Timer: 01:38 (Live in 98s)
+2026-02-05 18:42:31 - timer_monitor - INFO - Timer: 01:28 (Live in 88s)
+2026-02-05 18:42:41 - timer_monitor - INFO - Timer: 01:18 (Live in 78s)
+2026-02-05 18:42:51 - timer_monitor - INFO - Timer: 01:08 (Live in 68s)
+2026-02-05 18:43:01 - timer_monitor - INFO - Timer: 00:58 (Live in 58s)
+2026-02-05 18:43:11 - timer_monitor - INFO - Timer: 00:48 (Live in 48s)
+2026-02-05 18:43:21 - timer_monitor - INFO - Timer: 00:38 (Live in 38s)
+2026-02-05 18:43:32 - timer_monitor - INFO - Timer: 00:28 (Live in 28s)
+2026-02-05 18:43:42 - timer_monitor - INFO - Timer: 00:18 (Live in 18s)
+2026-02-05 18:43:52 - timer_monitor - INFO - Timer: 02:08 (Live in 128s)
+2026-02-05 18:44:02 - timer_monitor - INFO - Timer: 01:57 (Live in 117s)
+2026-02-05 18:44:12 - timer_monitor - INFO - Timer: 01:47 (Live in 107s)
+2026-02-05 18:44:22 - timer_monitor - INFO - Timer: 01:37 (Live in 97s)
+2026-02-05 18:44:32 - timer_monitor - INFO - Timer: 01:27 (Live in 87s)
+2026-02-05 18:44:42 - timer_monitor - INFO - Timer: 01:17 (Live in 77s)
+2026-02-05 18:44:52 - timer_monitor - INFO - Timer: 01:07 (Live in 67s)
+2026-02-05 18:45:02 - timer_monitor - INFO - Timer: 00:57 (Live in 57s)
+2026-02-05 18:45:12 - timer_monitor - INFO - Timer: 00:47 (Live in 47s)
+2026-02-05 18:45:12 - timer_monitor - INFO - Max checks reached (18)
+2026-02-05 18:45:15 - timer_monitor - INFO - Browser closed
+2026-02-05 21:08:02 - timer_monitor - INFO - Browser initialized successfully
+2026-02-05 21:08:02 - timer_monitor - INFO - Browser initialized successfully
+2026-02-05 21:08:02 - timer_monitor - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 21:08:02 - timer_monitor - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 21:08:14 - timer_monitor - INFO - Browser initialized successfully
+2026-02-05 21:08:14 - timer_monitor - INFO - Browser initialized successfully
+2026-02-05 21:08:14 - timer_monitor - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 21:08:14 - timer_monitor - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 21:08:23 - timer_monitor - INFO - Browser initialized successfully
+2026-02-05 21:08:23 - timer_monitor - INFO - Browser initialized successfully
+2026-02-05 21:08:23 - timer_monitor - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 21:08:23 - timer_monitor - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 21:08:24 - timer_monitor - INFO - Browser initialized successfully
+2026-02-05 21:08:24 - timer_monitor - INFO - Browser initialized successfully
+2026-02-05 21:08:24 - timer_monitor - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 21:08:24 - timer_monitor - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 21:08:37 - timer_monitor - INFO - Page loaded successfully: https://odibets.com/odileague
+2026-02-05 21:08:37 - timer_monitor - INFO - Page loaded successfully: https://odibets.com/odileague
+2026-02-05 21:08:39 - timer_monitor - INFO - Popup closed
+2026-02-05 21:08:39 - timer_monitor - INFO - Popup closed
+2026-02-05 21:08:55 - timer_monitor - INFO - Page loaded successfully: https://odibets.com/odileague
+2026-02-05 21:08:55 - timer_monitor - INFO - Page loaded successfully: https://odibets.com/odileague
+2026-02-05 21:08:55 - timer_monitor - INFO - Page loaded successfully: https://odibets.com/odileague
+2026-02-05 21:08:55 - timer_monitor - INFO - Page loaded successfully: https://odibets.com/odileague
+2026-02-05 21:08:56 - timer_monitor - INFO - Page loaded successfully: https://odibets.com/odileague
+2026-02-05 21:08:56 - timer_monitor - INFO - Page loaded successfully: https://odibets.com/odileague
+2026-02-05 21:08:57 - timer_monitor - INFO - Popup closed
+2026-02-05 21:08:57 - timer_monitor - INFO - Popup closed
+2026-02-05 21:08:57 - timer_monitor - INFO - Popup closed
+2026-02-05 21:08:57 - timer_monitor - INFO - Popup closed
+2026-02-05 21:08:58 - timer_monitor - INFO - Popup closed
+2026-02-05 21:08:58 - timer_monitor - INFO - Popup closed
+2026-02-05 21:15:30 - timer_monitor - INFO - Browser initialized successfully
+2026-02-05 21:15:30 - timer_monitor - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 21:15:46 - timer_monitor - INFO - Page loaded successfully: https://odibets.com/odileague
+2026-02-05 21:15:48 - timer_monitor - INFO - Popup closed

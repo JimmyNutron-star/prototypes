@@ -1,0 +1,99 @@
+2026-02-05 18:01:23 - matchday - INFO - Browser initialized successfully
+2026-02-05 18:01:23 - matchday - INFO - Starting matchday scrape...
+2026-02-05 18:01:23 - matchday - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 18:01:57 - matchday - INFO - Page loaded successfully: https://odibets.com/odileague
+2026-02-05 18:02:00 - matchday - INFO - Popup closed
+2026-02-05 18:02:01 - matchday - INFO - League: English League
+2026-02-05 18:02:01 - matchday - INFO - Timer: 01:59
+2026-02-05 18:02:01 - matchday - INFO - Found 10 game elements
+2026-02-05 18:02:01 - matchday - WARNING - Error in single game extraction: name 'By' is not defined
+2026-02-05 18:02:01 - matchday - WARNING - Error in single game extraction: name 'By' is not defined
+2026-02-05 18:02:01 - matchday - WARNING - Error in single game extraction: name 'By' is not defined
+2026-02-05 18:02:01 - matchday - WARNING - Error in single game extraction: name 'By' is not defined
+2026-02-05 18:02:01 - matchday - WARNING - Error in single game extraction: name 'By' is not defined
+2026-02-05 18:02:01 - matchday - WARNING - Error in single game extraction: name 'By' is not defined
+2026-02-05 18:02:01 - matchday - WARNING - Error in single game extraction: name 'By' is not defined
+2026-02-05 18:02:01 - matchday - WARNING - Error in single game extraction: name 'By' is not defined
+2026-02-05 18:02:01 - matchday - WARNING - Error in single game extraction: name 'By' is not defined
+2026-02-05 18:02:01 - matchday - WARNING - Error in single game extraction: name 'By' is not defined
+2026-02-05 18:02:01 - matchday - WARNING - No games data extracted
+2026-02-05 18:02:03 - matchday - INFO - Browser closed
+2026-02-05 18:15:22 - matchday - INFO - Browser initialized successfully
+2026-02-05 18:15:22 - matchday - INFO - Starting matchday scrape...
+2026-02-05 18:15:22 - matchday - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 18:15:56 - matchday - INFO - Page loaded successfully: https://odibets.com/odileague
+2026-02-05 18:15:58 - matchday - INFO - Popup closed
+2026-02-05 18:15:59 - matchday - INFO - League: English League
+2026-02-05 18:15:59 - matchday - INFO - Timer: 02:00
+2026-02-05 18:15:59 - matchday - INFO - Found 10 game elements
+2026-02-05 18:15:59 - matchday - WARNING - Error in single game extraction: name 'By' is not defined
+2026-02-05 18:15:59 - matchday - WARNING - Error in single game extraction: name 'By' is not defined
+2026-02-05 18:15:59 - matchday - WARNING - Error in single game extraction: name 'By' is not defined
+2026-02-05 18:15:59 - matchday - WARNING - Error in single game extraction: name 'By' is not defined
+2026-02-05 18:15:59 - matchday - WARNING - Error in single game extraction: name 'By' is not defined
+2026-02-05 18:15:59 - matchday - WARNING - Error in single game extraction: name 'By' is not defined
+2026-02-05 18:15:59 - matchday - WARNING - Error in single game extraction: name 'By' is not defined
+2026-02-05 18:15:59 - matchday - WARNING - Error in single game extraction: name 'By' is not defined
+2026-02-05 18:15:59 - matchday - WARNING - Error in single game extraction: name 'By' is not defined
+2026-02-05 18:15:59 - matchday - WARNING - Error in single game extraction: name 'By' is not defined
+2026-02-05 18:15:59 - matchday - WARNING - No games data extracted
+2026-02-05 18:16:02 - matchday - INFO - Browser closed
+2026-02-05 18:27:44 - matchday - INFO - Browser initialized successfully
+2026-02-05 18:27:44 - matchday - INFO - Starting matchday scrape...
+2026-02-05 18:27:44 - matchday - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 18:28:03 - matchday - INFO - Page loaded successfully: https://odibets.com/odileague
+2026-02-05 18:28:06 - matchday - INFO - Popup closed
+2026-02-05 18:28:07 - matchday - INFO - League: English League
+2026-02-05 18:28:07 - matchday - INFO - Timer: 01:53
+2026-02-05 18:28:07 - matchday - INFO - Found 10 game elements
+2026-02-05 18:28:14 - matchday - INFO - Successfully extracted 10 games
+2026-02-05 18:28:16 - matchday - INFO - Browser closed
+2026-02-05 18:45:51 - matchday - INFO - Browser initialized successfully
+2026-02-05 18:45:51 - matchday - INFO - Starting matchday scrape...
+2026-02-05 18:45:51 - matchday - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 18:46:11 - matchday - INFO - Page loaded successfully: https://odibets.com/odileague
+2026-02-05 18:46:13 - matchday - INFO - Popup closed
+2026-02-05 18:46:14 - matchday - INFO - League: English League
+2026-02-05 18:46:14 - matchday - INFO - Timer: 01:45
+2026-02-05 18:46:14 - matchday - INFO - Found 10 game elements
+2026-02-05 18:46:21 - matchday - INFO - Successfully extracted 10 games
+2026-02-05 18:46:23 - matchday - INFO - Browser closed
+2026-02-05 21:09:08 - matchday - INFO - Browser initialized successfully
+2026-02-05 21:09:08 - matchday - INFO - Starting matchday scrape...
+2026-02-05 21:09:08 - matchday - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 21:10:30 - matchday - INFO - Page loaded successfully: https://odibets.com/odileague
+2026-02-05 21:10:32 - matchday - INFO - No popup found
+2026-02-05 21:10:32 - matchday - INFO - League: English League
+2026-02-05 21:10:32 - matchday - INFO - Timer: 01:27
+2026-02-05 21:10:32 - matchday - INFO - Found 10 game elements
+2026-02-05 21:10:34 - matchday - INFO - Successfully extracted 10 games
+2026-02-05 21:12:01 - matchday - INFO - Browser initialized successfully
+2026-02-05 21:12:01 - matchday - INFO - Starting matchday scrape...
+2026-02-05 21:12:01 - matchday - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 21:12:07 - matchday - INFO - Browser initialized successfully
+2026-02-05 21:12:09 - matchday - INFO - Starting matchday scrape...
+2026-02-05 21:12:09 - matchday - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 21:12:45 - matchday - ERROR - Navigation error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-02-05 21:12:45 - matchday - ERROR - Navigation error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-02-05 21:13:44 - matchday - INFO - Browser initialized successfully
+2026-02-05 21:13:44 - matchday - INFO - Browser initialized successfully
+2026-02-05 21:13:45 - matchday - INFO - Browser initialized successfully
+2026-02-05 21:13:45 - matchday - INFO - Browser initialized successfully
+2026-02-05 21:13:48 - matchday - INFO - Starting matchday scrape...
+2026-02-05 21:13:48 - matchday - INFO - Starting matchday scrape...
+2026-02-05 21:13:48 - matchday - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 21:13:48 - matchday - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 21:13:49 - matchday - INFO - Starting matchday scrape...
+2026-02-05 21:13:49 - matchday - INFO - Starting matchday scrape...
+2026-02-05 21:13:49 - matchday - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 21:13:49 - matchday - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 21:14:05 - matchday - ERROR - Navigation error: HTTPConnectionPool(host='localhost', port=61825): Max retries exceeded with url: /session/293fb550390c80dc1766ae97f528f96e/url (Caused by NewConnectionError("HTTPConnection(host='localhost', port=61825): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+2026-02-05 21:14:05 - matchday - ERROR - Navigation error: HTTPConnectionPool(host='localhost', port=61825): Max retries exceeded with url: /session/293fb550390c80dc1766ae97f528f96e/url (Caused by NewConnectionError("HTTPConnection(host='localhost', port=61825): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+2026-02-05 21:14:06 - matchday - ERROR - Navigation error: HTTPConnectionPool(host='localhost', port=61697): Max retries exceeded with url: /session/5711497165bb6aab00d9245569977a7a/url (Caused by NewConnectionError("HTTPConnection(host='localhost', port=61697): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+2026-02-05 21:14:06 - matchday - ERROR - Navigation error: HTTPConnectionPool(host='localhost', port=61697): Max retries exceeded with url: /session/5711497165bb6aab00d9245569977a7a/url (Caused by NewConnectionError("HTTPConnection(host='localhost', port=61697): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+2026-02-05 21:16:20 - matchday - INFO - Browser initialized successfully
+2026-02-05 21:16:20 - matchday - INFO - Starting matchday scrape...
+2026-02-05 21:16:20 - matchday - INFO - Navigating to: https://odibets.com/odileague
+2026-02-05 21:16:32 - matchday - INFO - Page loaded successfully: https://odibets.com/odileague
+2026-02-05 21:16:33 - matchday - INFO - No popup found
+2026-02-05 21:16:33 - matchday - ERROR - Error finding element .virtual-logos .logo.active .text-xs: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))

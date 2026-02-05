@@ -1,8 +1,11 @@
+
 """
 Standings scraper - extracts league table data
 """
 
 from datetime import datetime
+import time
+from selenium.webdriver.common.by import By  # ADD THIS IMPORT
 from scrapers.base_scraper import BaseScraper
 from config import ODILEAGUE_URL
 
@@ -69,4 +72,54 @@ class StandingsScraper(BaseScraper):
     def extract_standings_data(self):
         """Extract standings table data"""
         try:
-            standings_data =
+            standings_data = {}
+            
+            # Get season title
+            try:
+                season_title = self.safe_find_element(".virtual-standings .title", timeout=5)
+                if season_title:
+                    standings_data['season'] = season_title.text.strip()
+            except:
+                standings_data['season'] = 'Unknown Season'
+            
+            # Extract table data
+            teams_data = []
+            table = self.safe_find_element(".virtual-standings table", timeout=10)
+            
+            if not table:
+                self.logger.warning("Standings table not found")
+                return standings_data
+            
+            # Get table rows
+            rows = table.find_elements(By.TAG_NAME, "tr")[1:]  # Skip header
+            
+            for row in rows:
+                try:
+                    cols = row.find_elements(By.TAG_NAME, "td")
+                    if len(cols) >= 4:
+                        team_info = {
+                            'position': cols[0].text.strip(),
+                            'team_name': cols[1].text.strip(),
+                            'points': cols[2].text.strip(),
+                            'form': []
+                        }
+                        
+                        # Extract form indicators
+                        form_elements = cols[3].find_elements(By.CSS_SELECTOR, "div")
+                        for form_element in form_elements:
+                            team_info['form'].append(form_element.text.strip())
+                        
+                        teams_data.append(team_info)
+                        
+                except Exception as e:
+                    self.logger.warning(f"Error extracting team row: {e}")
+                    continue
+            
+            standings_data['teams'] = teams_data
+            standings_data['total_teams'] = len(teams_data)
+            
+            return standings_data
+            
+        except Exception as e:
+            self.logger.error(f"Error extracting standings: {e}")
+            return {}

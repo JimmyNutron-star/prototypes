@@ -1,0 +1,7 @@
+2026-02-05 21:43:46 | Test-Timer | INFO | ============================================================
+2026-02-05 21:43:46 | Test-Timer | INFO | TEST 3: Timer Detection
+2026-02-05 21:43:46 | Test-Timer | INFO | ============================================================
+2026-02-05 21:44:18 | Test-Timer | ERROR | ✗ TEST 3 FAILED: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://odibets.com/odileague", waiting until "networkidle"
+

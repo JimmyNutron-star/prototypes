@@ -1,0 +1,51 @@
+2026-02-05 21:42:44 | DataAgent | INFO | DataAgent initialized | data_dir=data
+2026-02-05 21:42:44 | DataAgent | INFO | State transition: initializing → initializing
+2026-02-05 21:42:44 | DataAgent | INFO | State transition: initializing → running
+2026-02-05 21:42:44 | DataAgent | INFO | DataAgent ready
+2026-02-05 21:43:14 | DataAgent | INFO | State transition: running → stopping
+2026-02-05 21:43:14 | DataAgent | INFO | Backup created | timestamp=20260205_214314
+2026-02-05 21:43:14 | DataAgent | INFO | State transition: stopping → stopped
+2026-02-05 21:43:14 | DataAgent | INFO | DataAgent shutdown complete
+2026-02-05 21:43:44 | DataAgent | INFO | DataAgent initialized | data_dir=test_data
+2026-02-05 21:43:44 | DataAgent | INFO | State transition: initializing → initializing
+2026-02-05 21:43:44 | DataAgent | INFO | State transition: initializing → running
+2026-02-05 21:43:44 | DataAgent | INFO | DataAgent ready
+2026-02-05 21:43:44 | DataAgent | INFO | Inserted new matchday data | match_id=test_001
+2026-02-05 21:43:44 | DataAgent | INFO | Data collected: matchday | count=1
+2026-02-05 21:43:44 | DataAgent | INFO | State transition: running → stopping
+2026-02-05 21:43:44 | DataAgent | INFO | Backup created | timestamp=20260205_214344
+2026-02-05 21:43:44 | DataAgent | INFO | State transition: stopping → stopped
+2026-02-05 21:43:44 | DataAgent | INFO | DataAgent shutdown complete
+2026-02-05 21:49:04 | DataAgent | INFO | DataAgent initialized | data_dir=data
+2026-02-05 21:49:04 | DataAgent | INFO | State transition: initializing → initializing
+2026-02-05 21:49:04 | DataAgent | INFO | Loaded 0 matches from disk
+2026-02-05 21:49:04 | DataAgent | INFO | Loaded 0 results from disk
+2026-02-05 21:49:04 | DataAgent | INFO | Loaded standings data from disk
+2026-02-05 21:49:04 | DataAgent | INFO | State transition: initializing → running
+2026-02-05 21:49:04 | DataAgent | INFO | DataAgent ready
+2026-02-05 21:49:34 | DataAgent | INFO | State transition: running → stopping
+2026-02-05 21:49:34 | DataAgent | INFO | Backup created | timestamp=20260205_214934
+2026-02-05 21:49:34 | DataAgent | INFO | State transition: stopping → stopped
+2026-02-05 21:49:34 | DataAgent | INFO | DataAgent shutdown complete
+2026-02-05 21:57:31 | DataAgent | INFO | DataAgent initialized | data_dir=data
+2026-02-05 21:57:31 | DataAgent | INFO | State transition: initializing → initializing
+2026-02-05 21:57:31 | DataAgent | INFO | Loaded 0 matches from disk
+2026-02-05 21:57:31 | DataAgent | INFO | Loaded 0 results from disk
+2026-02-05 21:57:31 | DataAgent | INFO | Loaded standings data from disk
+2026-02-05 21:57:31 | DataAgent | INFO | State transition: initializing → running
+2026-02-05 21:57:31 | DataAgent | INFO | DataAgent ready
+2026-02-05 21:58:01 | DataAgent | INFO | State transition: running → stopping
+2026-02-05 21:58:01 | DataAgent | INFO | Backup created | timestamp=20260205_215801
+2026-02-05 21:58:01 | DataAgent | INFO | State transition: stopping → stopped
+2026-02-05 21:58:01 | DataAgent | INFO | DataAgent shutdown complete
+2026-02-05 22:04:56 | DataAgent | INFO | DataAgent initialized | data_dir=test_data
+2026-02-05 22:04:56 | DataAgent | INFO | State transition: initializing → initializing
+2026-02-05 22:04:56 | DataAgent | INFO | Loaded 1 matches from disk
+2026-02-05 22:04:56 | DataAgent | INFO | Loaded 0 results from disk
+2026-02-05 22:04:56 | DataAgent | INFO | Loaded standings data from disk
+2026-02-05 22:04:56 | DataAgent | INFO | State transition: initializing → running
+2026-02-05 22:04:56 | DataAgent | INFO | DataAgent ready
+2026-02-05 22:06:16 | DataAgent | INFO | State transition: running → stopping
+2026-02-05 22:06:16 | DataAgent | INFO | Backup created | timestamp=20260205_220616
+2026-02-05 22:06:16 | DataAgent | INFO | State transition: stopping → stopped
+2026-02-05 22:06:16 | DataAgent | INFO | DataAgent shutdown complete

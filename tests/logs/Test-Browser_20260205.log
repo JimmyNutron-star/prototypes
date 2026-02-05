@@ -1,0 +1,8 @@
+2026-02-05 21:43:09 | Test-Browser | INFO | ============================================================
+2026-02-05 21:43:09 | Test-Browser | INFO | TEST 1: Browser Connection
+2026-02-05 21:43:09 | Test-Browser | INFO | ============================================================
+2026-02-05 21:43:12 | Test-Browser | INFO | Navigating to https://odibets.com/odileague...
+2026-02-05 21:43:42 | Test-Browser | ERROR | ✗ TEST 1 FAILED: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://odibets.com/odileague", waiting until "networkidle"
+

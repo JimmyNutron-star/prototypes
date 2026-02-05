@@ -1,0 +1,13 @@
+2026-02-05 21:43:09 | TestRunner | INFO | ============================================================
+2026-02-05 21:43:09 | TestRunner | INFO | RUNNING ALL TESTS
+2026-02-05 21:43:09 | TestRunner | INFO | ============================================================
+2026-02-05 21:44:53 | TestRunner | INFO | ============================================================
+2026-02-05 21:44:53 | TestRunner | INFO | TEST SUMMARY
+2026-02-05 21:44:53 | TestRunner | INFO | ============================================================
+2026-02-05 21:44:53 | TestRunner | INFO | Browser Connection: ✗ FAILED
+2026-02-05 21:44:53 | TestRunner | INFO | Data Agent: ✓ PASSED
+2026-02-05 21:44:53 | TestRunner | INFO | Timer Detection: ✗ FAILED
+2026-02-05 21:44:53 | TestRunner | INFO | Matchday Scraping: ✗ FAILED
+2026-02-05 21:44:53 | TestRunner | INFO | 
+Total: 1/4 tests passed
+2026-02-05 21:44:53 | TestRunner | WARNING | ⚠ 3 test(s) failed
