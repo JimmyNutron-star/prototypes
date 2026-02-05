@@ -1,0 +1,76 @@
+============================================================
+ODIBETS ODILEAGUE - SCRAPING SUMMARY REPORT
+============================================================
+
+Scrape Timestamp: 2026-02-05 14:04:05
+URL: https://odibets.com/odileague
+
+📊 LEAGUE INFORMATION
+----------------------------------------
+Active League: English League
+Current Time: 00:33
+Available Leagues: English League, Spanish League, Kenyan League, Italian League
+
+🎯 MATCHDAY SUMMARY
+----------------------------------------
+Matchdays Extracted: 1
+Total Games: 10
+  - Matchday 1: 10 games
+
+📈 RESULTS SUMMARY
+----------------------------------------
+Results Weeks Extracted: 38
+Total Result Games: 380
+  - English League WEEK 35 - #2026020510: 10 games
+  - English League WEEK 34 - #2026020510: 10 games
+  - English League WEEK 33 - #2026020510: 10 games
+  - English League WEEK 32 - #2026020510: 10 games
+  - English League WEEK 31 - #2026020510: 10 games
+  - English League WEEK 30 - #2026020510: 10 games
+  - English League WEEK 29 - #2026020510: 10 games
+  - English League WEEK 28 - #2026020510: 10 games
+  - English League WEEK 27 - #2026020510: 10 games
+  - English League WEEK 26 - #2026020510: 10 games
+  - English League WEEK 25 - #2026020510: 10 games
+  - English League WEEK 24 - #2026020510: 10 games
+  - English League WEEK 23 - #2026020510: 10 games
+  - English League WEEK 22 - #2026020510: 10 games
+  - English League WEEK 21 - #2026020510: 10 games
+  - English League WEEK 20 - #2026020510: 10 games
+  - English League WEEK 19 - #2026020510: 10 games
+  - English League WEEK 18 - #2026020510: 10 games
+  - English League WEEK 17 - #2026020510: 10 games
+  - English League WEEK 16 - #2026020510: 10 games
+  - English League WEEK 15 - #2026020510: 10 games
+  - English League WEEK 14 - #2026020510: 10 games
+  - English League WEEK 13 - #2026020510: 10 games
+  - English League WEEK 12 - #2026020510: 10 games
+  - English League WEEK 11 - #2026020510: 10 games
+  - English League WEEK 10 - #2026020510: 10 games
+  - English League WEEK 9 - #2026020510: 10 games
+  - English League WEEK 8 - #2026020510: 10 games
+  - English League WEEK 7 - #2026020510: 10 games
+  - English League WEEK 6 - #2026020510: 10 games
+  - English League WEEK 5 - #2026020510: 10 games
+  - English League WEEK 4 - #2026020510: 10 games
+  - English League WEEK 3 - #2026020510: 10 games
+  - English League WEEK 2 - #2026020510: 10 games
+  - English League WEEK 1 - #2026020510: 10 games
+  - English League WEEK 38 - #2026020509: 10 games
+  - English League WEEK 37 - #2026020509: 10 games
+  - English League WEEK 36 - #2026020509: 10 games
+
+🏆 STANDINGS SUMMARY
+----------------------------------------
+Season: English League Season #2026020510
+Teams in Standings: 20
+Top 5 Teams:
+  1. London Reds - 65 pts
+  2. Burnley - 59 pts
+  3. Fulham - 56 pts
+  4. Palace - 55 pts
+  5. Aston V - 52 pts
+
+============================================================
+END OF REPORT
+============================================================

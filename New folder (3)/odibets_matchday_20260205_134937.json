@@ -1,0 +1,98 @@
+{
+  "league_info": {
+    "active_league": "",
+    "timestamp": "00:28"
+  },
+  "matchday_data": [
+    {
+      "home_team": "Liverpool",
+      "away_team": "Aston V",
+      "home_odds": "1.91",
+      "draw_odds": "3.41",
+      "away_odds": "4.06",
+      "gg_odds": "",
+      "ng_odds": ""
+    },
+    {
+      "home_team": "West Ham",
+      "away_team": "Leicester",
+      "home_odds": "1.81",
+      "draw_odds": "3.53",
+      "away_odds": "4.36",
+      "gg_odds": "",
+      "ng_odds": ""
+    },
+    {
+      "home_team": "Fulham",
+      "away_team": "Manchester Reds",
+      "home_odds": "1.81",
+      "draw_odds": "3.53",
+      "away_odds": "4.36",
+      "gg_odds": "",
+      "ng_odds": ""
+    },
+    {
+      "home_team": "London Blues",
+      "away_team": "Wolves",
+      "home_odds": "1.75",
+      "draw_odds": "3.60",
+      "away_odds": "4.64",
+      "gg_odds": "",
+      "ng_odds": ""
+    },
+    {
+      "home_team": "Manchester Blue",
+      "away_team": "Palace",
+      "home_odds": "1.90",
+      "draw_odds": "3.44",
+      "away_odds": "4.05",
+      "gg_odds": "",
+      "ng_odds": ""
+    },
+    {
+      "home_team": "Sheffield U",
+      "away_team": "Leeds",
+      "home_odds": "1.76",
+      "draw_odds": "3.60",
+      "away_odds": "4.56",
+      "gg_odds": "",
+      "ng_odds": ""
+    },
+    {
+      "home_team": "Everton",
+      "away_team": "Burnley",
+      "home_odds": "2.43",
+      "draw_odds": "3.22",
+      "away_odds": "2.93",
+      "gg_odds": "",
+      "ng_odds": ""
+    },
+    {
+      "home_team": "London Reds",
+      "away_team": "Brighton",
+      "home_odds": "2.00",
+      "draw_odds": "3.34",
+      "away_odds": "3.78",
+      "gg_odds": "",
+      "ng_odds": ""
+    },
+    {
+      "home_team": "Tottenham",
+      "away_team": "Newcastle",
+      "home_odds": "3.04",
+      "draw_odds": "3.64",
+      "away_odds": "2.18",
+      "gg_odds": "",
+      "ng_odds": ""
+    },
+    {
+      "home_team": "Southampton",
+      "away_team": "West Brom",
+      "home_odds": "3.15",
+      "draw_odds": "3.69",
+      "away_odds": "2.10",
+      "gg_odds": "",
+      "ng_odds": ""
+    }
+  ]
+}

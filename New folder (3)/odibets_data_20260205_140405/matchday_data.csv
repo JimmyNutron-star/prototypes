@@ -1,0 +1,11 @@
+home_team,away_team,home_odds,draw_odds,away_odds,gg_odds,ng_odds,matchday_number,matchday
+Everton,Newcastle,2.73,3.42,2.47,1.67,2.15,1,1
+Liverpool,London Blues,1.96,3.38,3.88,1.74,2.04,1,1
+Manchester Blue,London Reds,2.37,3.16,3.06,1.69,2.12,1,1
+West Ham,Aston V,2.87,3.55,2.31,1.68,2.14,1,1
+Fulham,Brighton,2.21,3.19,3.36,1.71,2.08,1,1
+Southampton,Palace,3.04,3.65,2.17,1.67,2.15,1,1
+Sheffield U,Wolves,1.98,3.38,3.82,1.74,2.05,1,1
+Burnley,Manchester Reds,2.02,3.32,3.73,1.73,2.06,1,1
+Leicester,Tottenham,2.73,3.42,2.47,1.68,2.14,1,1
+West Brom,Leeds,1.76,3.62,4.55,1.79,1.99,1,1

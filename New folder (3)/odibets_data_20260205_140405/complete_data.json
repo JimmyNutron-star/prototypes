@@ -1,0 +1,3003 @@
+{
+  "scrape_timestamp": "2026-02-05 14:04:05",
+  "url": "https://odibets.com/odileague",
+  "league_info": {
+    "active_league": "English League",
+    "available_leagues": [
+      "English League",
+      "Spanish League",
+      "Kenyan League",
+      "Italian League"
+    ],
+    "timestamp": "00:33",
+    "all_timestamps": [
+      "00:33",
+      "14:06",
+      "14:08",
+      "14:10",
+      "14:12",
+      "14:14",
+      "14:16",
+      "14:18",
+      "14:20",
+      "14:22",
+      "14:24",
+      "14:26",
+      "14:28",
+      "14:30",
+      "14:32",
+      "14:34",
+      "14:36",
+      "14:38",
+      "14:40",
+      "14:42",
+      "14:44",
+      "14:46",
+      "14:48",
+      "14:50",
+      "14:52",
+      "14:54",
+      "14:56",
+      "14:58",
+      "15:00",
+      "15:02",
+      "15:04",
+      "15:06",
+      "15:08",
+      "15:10",
+      "15:12",
+      "15:14",
+      "15:16",
+      "15:18",
+      "15:20",
+      "15:22",
+      "15:24",
+      "15:26",
+      "15:28",
+      "15:30",
+      "15:32"
+    ]
+  },
+  "matchday_data": [
+    {
+      "matchday": 1,
+      "games": [
+        {
+          "home_team": "Everton",
+          "away_team": "Newcastle",
+          "home_odds": "2.73",
+          "draw_odds": "3.42",
+          "away_odds": "2.47",
+          "gg_odds": "1.67",
+          "ng_odds": "2.15",
+          "matchday_number": 1
+        },
+        {
+          "home_team": "Liverpool",
+          "away_team": "London Blues",
+          "home_odds": "1.96",
+          "draw_odds": "3.38",
+          "away_odds": "3.88",
+          "gg_odds": "1.74",
+          "ng_odds": "2.04",
+          "matchday_number": 1
+        },
+        {
+          "home_team": "Manchester Blue",
+          "away_team": "London Reds",
+          "home_odds": "2.37",
+          "draw_odds": "3.16",
+          "away_odds": "3.06",
+          "gg_odds": "1.69",
+          "ng_odds": "2.12",
+          "matchday_number": 1
+        },
+        {
+          "home_team": "West Ham",
+          "away_team": "Aston V",
+          "home_odds": "2.87",
+          "draw_odds": "3.55",
+          "away_odds": "2.31",
+          "gg_odds": "1.68",
+          "ng_odds": "2.14",
+          "matchday_number": 1
+        },
+        {
+          "home_team": "Fulham",
+          "away_team": "Brighton",
+          "home_odds": "2.21",
+          "draw_odds": "3.19",
+          "away_odds": "3.36",
+          "gg_odds": "1.71",
+          "ng_odds": "2.08",
+          "matchday_number": 1
+        },
+        {
+          "home_team": "Southampton",
+          "away_team": "Palace",
+          "home_odds": "3.04",
+          "draw_odds": "3.65",
+          "away_odds": "2.17",
+          "gg_odds": "1.67",
+          "ng_odds": "2.15",
+          "matchday_number": 1
+        },
+        {
+          "home_team": "Sheffield U",
+          "away_team": "Wolves",
+          "home_odds": "1.98",
+          "draw_odds": "3.38",
+          "away_odds": "3.82",
+          "gg_odds": "1.74",
+          "ng_odds": "2.05",
+          "matchday_number": 1
+        },
+        {
+          "home_team": "Burnley",
+          "away_team": "Manchester Reds",
+          "home_odds": "2.02",
+          "draw_odds": "3.32",
+          "away_odds": "3.73",
+          "gg_odds": "1.73",
+          "ng_odds": "2.06",
+          "matchday_number": 1
+        },
+        {
+          "home_team": "Leicester",
+          "away_team": "Tottenham",
+          "home_odds": "2.73",
+          "draw_odds": "3.42",
+          "away_odds": "2.47",
+          "gg_odds": "1.68",
+          "ng_odds": "2.14",
+          "matchday_number": 1
+        },
+        {
+          "home_team": "West Brom",
+          "away_team": "Leeds",
+          "home_odds": "1.76",
+          "draw_odds": "3.62",
+          "away_odds": "4.55",
+          "gg_odds": "1.79",
+          "ng_odds": "1.99",
+          "matchday_number": 1
+        }
+      ]
+    }
+  ],
+  "results_data": [
+    {
+      "week_info": {
+        "week_title": "English League WEEK 35 - #2026020510",
+        "time": "2:02 pm"
+      },
+      "games": [
+        {
+          "home_team": "Leeds",
+          "away_team": "Manchester Reds",
+          "home_score": "-",
+          "away_score": "-"
+        },
+        {
+          "home_team": "Tottenham",
+          "away_team": "Liverpool",
+          "home_score": "-",
+          "away_score": "-"
+        },
+        {
+          "home_team": "Brighton",
+          "away_team": "Southampton",
+          "home_score": "-",
+          "away_score": "-"
+        },
+        {
+          "home_team": "London Reds",
+          "away_team": "Sheffield U",
+          "home_score": "-",
+          "away_score": "-"
+        },
+        {
+          "home_team": "Palace",
+          "away_team": "West Brom",
+          "home_score": "-",
+          "away_score": "-"
+        },
+        {
+          "home_team": "Aston V",
+          "away_team": "Burnley",
+          "home_score": "-",
+          "away_score": "-"
+        },
+        {
+          "home_team": "Wolves",
+          "away_team": "Everton",
+          "home_score": "-",
+          "away_score": "-"
+        },
+        {
+          "home_team": "London Blues",
+          "away_team": "Fulham",
+          "home_score": "-",
+          "away_score": "-"
+        },
+        {
+          "home_team": "Newcastle",
+          "away_team": "West Ham",
+          "home_score": "-",
+          "away_score": "-"
+        },
+        {
+          "home_team": "Manchester Blue",
+          "away_team": "Leicester",
+          "home_score": "-",
+          "away_score": "-"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 34 - #2026020510",
+        "time": "2:00 pm"
+      },
+      "games": [
+        {
+          "home_team": "Fulham",
+          "away_team": "Tottenham",
+          "home_score": "3",
+          "away_score": "0"
+        },
+        {
+          "home_team": "West Ham",
+          "away_team": "Wolves",
+          "home_score": "0",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Leeds",
+          "away_team": "Aston V",
+          "home_score": "1",
+          "away_score": "4"
+        },
+        {
+          "home_team": "Burnley",
+          "away_team": "Newcastle",
+          "home_score": "3",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Everton",
+          "away_team": "London Reds",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "West Brom",
+          "away_team": "Brighton",
+          "home_score": "0",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Leicester",
+          "away_team": "Liverpool",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Sheffield U",
+          "away_team": "Manchester Blue",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Manchester Reds",
+          "away_team": "Palace",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Southampton",
+          "away_team": "London Blues",
+          "home_score": "1",
+          "away_score": "4"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 33 - #2026020510",
+        "time": "1:58 pm"
+      },
+      "games": [
+        {
+          "home_team": "Sheffield U",
+          "away_team": "Leicester",
+          "home_score": "3",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Palace",
+          "away_team": "Aston V",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "London Reds",
+          "away_team": "West Ham",
+          "home_score": "4",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Manchester Blue",
+          "away_team": "Everton",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Tottenham",
+          "away_team": "Southampton",
+          "home_score": "4",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Brighton",
+          "away_team": "Manchester Reds",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Newcastle",
+          "away_team": "Leeds",
+          "home_score": "0",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Liverpool",
+          "away_team": "Fulham",
+          "home_score": "0",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Wolves",
+          "away_team": "Burnley",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "London Blues",
+          "away_team": "West Brom",
+          "home_score": "4",
+          "away_score": "2"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 32 - #2026020510",
+        "time": "1:56 pm"
+      },
+      "games": [
+        {
+          "home_team": "West Brom",
+          "away_team": "Tottenham",
+          "home_score": "2",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Leicester",
+          "away_team": "Fulham",
+          "home_score": "2",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Burnley",
+          "away_team": "London Reds",
+          "home_score": "1",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Aston V",
+          "away_team": "Brighton",
+          "home_score": "0",
+          "away_score": "3"
+        },
+        {
+          "home_team": "West Ham",
+          "away_team": "Manchester Blue",
+          "home_score": "2",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Manchester Reds",
+          "away_team": "London Blues",
+          "home_score": "1",
+          "away_score": "4"
+        },
+        {
+          "home_team": "Southampton",
+          "away_team": "Liverpool",
+          "home_score": "1",
+          "away_score": "4"
+        },
+        {
+          "home_team": "Leeds",
+          "away_team": "Wolves",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Palace",
+          "away_team": "Newcastle",
+          "home_score": "3",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Everton",
+          "away_team": "Sheffield U",
+          "home_score": "1",
+          "away_score": "2"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 31 - #2026020510",
+        "time": "1:54 pm"
+      },
+      "games": [
+        {
+          "home_team": "London Reds",
+          "away_team": "Leeds",
+          "home_score": "3",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Tottenham",
+          "away_team": "Manchester Reds",
+          "home_score": "3",
+          "away_score": "3"
+        },
+        {
+          "home_team": "Wolves",
+          "away_team": "Palace",
+          "home_score": "2",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Fulham",
+          "away_team": "Southampton",
+          "home_score": "3",
+          "away_score": "0"
+        },
+        {
+          "home_team": "London Blues",
+          "away_team": "Aston V",
+          "home_score": "2",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Everton",
+          "away_team": "Leicester",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Liverpool",
+          "away_team": "West Brom",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Manchester Blue",
+          "away_team": "Burnley",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Brighton",
+          "away_team": "Newcastle",
+          "home_score": "3",
+          "away_score": "3"
+        },
+        {
+          "home_team": "Sheffield U",
+          "away_team": "West Ham",
+          "home_score": "2",
+          "away_score": "1"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 30 - #2026020510",
+        "time": "1:52 pm"
+      },
+      "games": [
+        {
+          "home_team": "Brighton",
+          "away_team": "Wolves",
+          "home_score": "3",
+          "away_score": "2"
+        },
+        {
+          "home_team": "West Ham",
+          "away_team": "Everton",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Aston V",
+          "away_team": "Tottenham",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Manchester Reds",
+          "away_team": "Liverpool",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Burnley",
+          "away_team": "Sheffield U",
+          "home_score": "0",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Newcastle",
+          "away_team": "London Blues",
+          "home_score": "2",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Leeds",
+          "away_team": "Manchester Blue",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Palace",
+          "away_team": "London Reds",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Leicester",
+          "away_team": "Southampton",
+          "home_score": "3",
+          "away_score": "0"
+        },
+        {
+          "home_team": "West Brom",
+          "away_team": "Fulham",
+          "home_score": "1",
+          "away_score": "1"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 29 - #2026020510",
+        "time": "1:50 pm"
+      },
+      "games": [
+        {
+          "home_team": "Fulham",
+          "away_team": "Manchester Reds",
+          "home_score": "3",
+          "away_score": "0"
+        },
+        {
+          "home_team": "London Blues",
+          "away_team": "Wolves",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Manchester Blue",
+          "away_team": "Palace",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Liverpool",
+          "away_team": "Aston V",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "West Ham",
+          "away_team": "Leicester",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Sheffield U",
+          "away_team": "Leeds",
+          "home_score": "4",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Southampton",
+          "away_team": "West Brom",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Everton",
+          "away_team": "Burnley",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "London Reds",
+          "away_team": "Brighton",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Tottenham",
+          "away_team": "Newcastle",
+          "home_score": "1",
+          "away_score": "0"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 28 - #2026020510",
+        "time": "1:48 pm"
+      },
+      "games": [
+        {
+          "home_team": "Manchester Reds",
+          "away_team": "Southampton",
+          "home_score": "3",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Wolves",
+          "away_team": "Tottenham",
+          "home_score": "1",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Leicester",
+          "away_team": "West Brom",
+          "home_score": "0",
+          "away_score": "2"
+        },
+        {
+          "home_team": "London Blues",
+          "away_team": "London Reds",
+          "home_score": "3",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Leeds",
+          "away_team": "Everton",
+          "home_score": "0",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Brighton",
+          "away_team": "Manchester Blue",
+          "home_score": "2",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Palace",
+          "away_team": "Sheffield U",
+          "home_score": "0",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Newcastle",
+          "away_team": "Liverpool",
+          "home_score": "1",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Aston V",
+          "away_team": "Fulham",
+          "home_score": "3",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Burnley",
+          "away_team": "West Ham",
+          "home_score": "1",
+          "away_score": "1"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 27 - #2026020510",
+        "time": "1:46 pm"
+      },
+      "games": [
+        {
+          "home_team": "Fulham",
+          "away_team": "Newcastle",
+          "home_score": "3",
+          "away_score": "3"
+        },
+        {
+          "home_team": "West Ham",
+          "away_team": "Leeds",
+          "home_score": "2",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Southampton",
+          "away_team": "Aston V",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Everton",
+          "away_team": "Palace",
+          "home_score": "1",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Sheffield U",
+          "away_team": "Brighton",
+          "home_score": "1",
+          "away_score": "3"
+        },
+        {
+          "home_team": "Burnley",
+          "away_team": "Leicester",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "West Brom",
+          "away_team": "Manchester Reds",
+          "home_score": "0",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Manchester Blue",
+          "away_team": "London Blues",
+          "home_score": "2",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Tottenham",
+          "away_team": "London Reds",
+          "home_score": "1",
+          "away_score": "4"
+        },
+        {
+          "home_team": "Liverpool",
+          "away_team": "Wolves",
+          "home_score": "0",
+          "away_score": "0"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 26 - #2026020510",
+        "time": "1:44 pm"
+      },
+      "games": [
+        {
+          "home_team": "London Reds",
+          "away_team": "Liverpool",
+          "home_score": "1",
+          "away_score": "3"
+        },
+        {
+          "home_team": "Tottenham",
+          "away_team": "Manchester Blue",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Newcastle",
+          "away_team": "Southampton",
+          "home_score": "1",
+          "away_score": "3"
+        },
+        {
+          "home_team": "Aston V",
+          "away_team": "West Brom",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "London Blues",
+          "away_team": "Sheffield U",
+          "home_score": "1",
+          "away_score": "4"
+        },
+        {
+          "home_team": "Wolves",
+          "away_team": "Fulham",
+          "home_score": "0",
+          "away_score": "4"
+        },
+        {
+          "home_team": "Palace",
+          "away_team": "West Ham",
+          "home_score": "3",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Leeds",
+          "away_team": "Burnley",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Brighton",
+          "away_team": "Everton",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Leicester",
+          "away_team": "Manchester Reds",
+          "home_score": "2",
+          "away_score": "1"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 25 - #2026020510",
+        "time": "1:42 pm"
+      },
+      "games": [
+        {
+          "home_team": "Sheffield U",
+          "away_team": "Tottenham",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Liverpool",
+          "away_team": "Manchester Blue",
+          "home_score": "0",
+          "away_score": "2"
+        },
+        {
+          "home_team": "West Ham",
+          "away_team": "Brighton",
+          "home_score": "2",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Everton",
+          "away_team": "London Blues",
+          "home_score": "2",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Burnley",
+          "away_team": "Palace",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Manchester Reds",
+          "away_team": "Aston V",
+          "home_score": "0",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Leeds",
+          "away_team": "Leicester",
+          "home_score": "2",
+          "away_score": "3"
+        },
+        {
+          "home_team": "Southampton",
+          "away_team": "Wolves",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Fulham",
+          "away_team": "London Reds",
+          "home_score": "2",
+          "away_score": "2"
+        },
+        {
+          "home_team": "West Brom",
+          "away_team": "Newcastle",
+          "home_score": "3",
+          "away_score": "0"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 24 - #2026020510",
+        "time": "1:40 pm"
+      },
+      "games": [
+        {
+          "home_team": "Newcastle",
+          "away_team": "Manchester Reds",
+          "home_score": "3",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Manchester Blue",
+          "away_team": "Fulham",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "London Reds",
+          "away_team": "Southampton",
+          "home_score": "3",
+          "away_score": "1"
+        },
+        {
+          "home_team": "London Blues",
+          "away_team": "West Ham",
+          "home_score": "3",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Tottenham",
+          "away_team": "Everton",
+          "home_score": "0",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Wolves",
+          "away_team": "West Brom",
+          "home_score": "0",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Brighton",
+          "away_team": "Burnley",
+          "home_score": "0",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Palace",
+          "away_team": "Leeds",
+          "home_score": "4",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Liverpool",
+          "away_team": "Sheffield U",
+          "home_score": "2",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Leicester",
+          "away_team": "Aston V",
+          "home_score": "2",
+          "away_score": "0"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 23 - #2026020510",
+        "time": "1:38 pm"
+      },
+      "games": [
+        {
+          "home_team": "Fulham",
+          "away_team": "Sheffield U",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Burnley",
+          "away_team": "London Blues",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Southampton",
+          "away_team": "Manchester Blue",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "West Brom",
+          "away_team": "London Reds",
+          "home_score": "1",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Leeds",
+          "away_team": "Brighton",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Aston V",
+          "away_team": "Newcastle",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Everton",
+          "away_team": "Liverpool",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "West Ham",
+          "away_team": "Tottenham",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Palace",
+          "away_team": "Leicester",
+          "home_score": "3",
+          "away_score": "3"
+        },
+        {
+          "home_team": "Manchester Reds",
+          "away_team": "Wolves",
+          "home_score": "0",
+          "away_score": "2"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 22 - #2026020510",
+        "time": "1:36 pm"
+      },
+      "games": [
+        {
+          "home_team": "Fulham",
+          "away_team": "Everton",
+          "home_score": "2",
+          "away_score": "1"
+        },
+        {
+          "home_team": "London Blues",
+          "away_team": "Leeds",
+          "home_score": "0",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Tottenham",
+          "away_team": "Burnley",
+          "home_score": "2",
+          "away_score": "3"
+        },
+        {
+          "home_team": "Manchester Blue",
+          "away_team": "West Brom",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Wolves",
+          "away_team": "Aston V",
+          "home_score": "5",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Sheffield U",
+          "away_team": "Southampton",
+          "home_score": "2",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Brighton",
+          "away_team": "Palace",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Leicester",
+          "away_team": "Newcastle",
+          "home_score": "1",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Liverpool",
+          "away_team": "West Ham",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "London Reds",
+          "away_team": "Manchester Reds",
+          "home_score": "3",
+          "away_score": "0"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 21 - #2026020510",
+        "time": "1:34 pm"
+      },
+      "games": [
+        {
+          "home_team": "Leeds",
+          "away_team": "Tottenham",
+          "home_score": "0",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Manchester Reds",
+          "away_team": "Manchester Blue",
+          "home_score": "2",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Burnley",
+          "away_team": "Liverpool",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Southampton",
+          "away_team": "Everton",
+          "home_score": "2",
+          "away_score": "0"
+        },
+        {
+          "home_team": "West Brom",
+          "away_team": "Sheffield U",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Palace",
+          "away_team": "London Blues",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "West Ham",
+          "away_team": "Fulham",
+          "home_score": "0",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Aston V",
+          "away_team": "London Reds",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Brighton",
+          "away_team": "Leicester",
+          "home_score": "0",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Newcastle",
+          "away_team": "Wolves",
+          "home_score": "1",
+          "away_score": "0"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 20 - #2026020510",
+        "time": "1:32 pm"
+      },
+      "games": [
+        {
+          "home_team": "London Blues",
+          "away_team": "Brighton",
+          "home_score": "0",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Tottenham",
+          "away_team": "Palace",
+          "home_score": "1",
+          "away_score": "4"
+        },
+        {
+          "home_team": "Southampton",
+          "away_team": "West Ham",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Liverpool",
+          "away_team": "Leeds",
+          "home_score": "0",
+          "away_score": "2"
+        },
+        {
+          "home_team": "London Reds",
+          "away_team": "Newcastle",
+          "home_score": "2",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Manchester Blue",
+          "away_team": "Aston V",
+          "home_score": "0",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Everton",
+          "away_team": "West Brom",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Sheffield U",
+          "away_team": "Manchester Reds",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Fulham",
+          "away_team": "Burnley",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Leicester",
+          "away_team": "Wolves",
+          "home_score": "1",
+          "away_score": "1"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 19 - #2026020510",
+        "time": "1:30 pm"
+      },
+      "games": [
+        {
+          "home_team": "Manchester Reds",
+          "away_team": "Everton",
+          "home_score": "2",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Newcastle",
+          "away_team": "Manchester Blue",
+          "home_score": "0",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Aston V",
+          "away_team": "Sheffield U",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Leeds",
+          "away_team": "Fulham",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Palace",
+          "away_team": "Liverpool",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Wolves",
+          "away_team": "London Reds",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "West Brom",
+          "away_team": "West Ham",
+          "home_score": "2",
+          "away_score": "3"
+        },
+        {
+          "home_team": "London Blues",
+          "away_team": "Leicester",
+          "home_score": "4",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Burnley",
+          "away_team": "Southampton",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Brighton",
+          "away_team": "Tottenham",
+          "home_score": "3",
+          "away_score": "0"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 18 - #2026020510",
+        "time": "1:28 pm"
+      },
+      "games": [
+        {
+          "home_team": "Everton",
+          "away_team": "Aston V",
+          "home_score": "2",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Sheffield U",
+          "away_team": "Newcastle",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Tottenham",
+          "away_team": "London Blues",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Liverpool",
+          "away_team": "Brighton",
+          "home_score": "0",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Manchester Blue",
+          "away_team": "Wolves",
+          "home_score": "3",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Southampton",
+          "away_team": "Leeds",
+          "home_score": "2",
+          "away_score": "4"
+        },
+        {
+          "home_team": "Fulham",
+          "away_team": "Palace",
+          "home_score": "0",
+          "away_score": "0"
+        },
+        {
+          "home_team": "West Brom",
+          "away_team": "Burnley",
+          "home_score": "2",
+          "away_score": "3"
+        },
+        {
+          "home_team": "Leicester",
+          "away_team": "London Reds",
+          "home_score": "4",
+          "away_score": "2"
+        },
+        {
+          "home_team": "West Ham",
+          "away_team": "Manchester Reds",
+          "home_score": "2",
+          "away_score": "0"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 17 - #2026020510",
+        "time": "1:26 pm"
+      },
+      "games": [
+        {
+          "home_team": "London Blues",
+          "away_team": "Liverpool",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Aston V",
+          "away_team": "West Ham",
+          "home_score": "3",
+          "away_score": "1"
+        },
+        {
+          "home_team": "London Reds",
+          "away_team": "Manchester Blue",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Newcastle",
+          "away_team": "Everton",
+          "home_score": "2",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Manchester Reds",
+          "away_team": "Burnley",
+          "home_score": "1",
+          "away_score": "3"
+        },
+        {
+          "home_team": "Wolves",
+          "away_team": "Sheffield U",
+          "home_score": "0",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Brighton",
+          "away_team": "Fulham",
+          "home_score": "2",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Palace",
+          "away_team": "Southampton",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Tottenham",
+          "away_team": "Leicester",
+          "home_score": "2",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Leeds",
+          "away_team": "West Brom",
+          "home_score": "2",
+          "away_score": "2"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 16 - #2026020510",
+        "time": "1:24 pm"
+      },
+      "games": [
+        {
+          "home_team": "Manchester Reds",
+          "away_team": "Leeds",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Burnley",
+          "away_team": "Aston V",
+          "home_score": "2",
+          "away_score": "0"
+        },
+        {
+          "home_team": "West Brom",
+          "away_team": "Palace",
+          "home_score": "2",
+          "away_score": "3"
+        },
+        {
+          "home_team": "Everton",
+          "away_team": "Wolves",
+          "home_score": "4",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Sheffield U",
+          "away_team": "London Reds",
+          "home_score": "0",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Leicester",
+          "away_team": "Manchester Blue",
+          "home_score": "1",
+          "away_score": "4"
+        },
+        {
+          "home_team": "Liverpool",
+          "away_team": "Tottenham",
+          "home_score": "4",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Fulham",
+          "away_team": "London Blues",
+          "home_score": "3",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Southampton",
+          "away_team": "Brighton",
+          "home_score": "0",
+          "away_score": "2"
+        },
+        {
+          "home_team": "West Ham",
+          "away_team": "Newcastle",
+          "home_score": "2",
+          "away_score": "2"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 15 - #2026020510",
+        "time": "1:22 pm"
+      },
+      "games": [
+        {
+          "home_team": "Tottenham",
+          "away_team": "Fulham",
+          "home_score": "2",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Brighton",
+          "away_team": "West Brom",
+          "home_score": "0",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Newcastle",
+          "away_team": "Burnley",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Wolves",
+          "away_team": "West Ham",
+          "home_score": "2",
+          "away_score": "1"
+        },
+        {
+          "home_team": "London Blues",
+          "away_team": "Southampton",
+          "home_score": "1",
+          "away_score": "3"
+        },
+        {
+          "home_team": "Liverpool",
+          "away_team": "Leicester",
+          "home_score": "2",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Aston V",
+          "away_team": "Leeds",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Palace",
+          "away_team": "Manchester Reds",
+          "home_score": "0",
+          "away_score": "3"
+        },
+        {
+          "home_team": "London Reds",
+          "away_team": "Everton",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Manchester Blue",
+          "away_team": "Sheffield U",
+          "home_score": "2",
+          "away_score": "0"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 14 - #2026020510",
+        "time": "1:20 pm"
+      },
+      "games": [
+        {
+          "home_team": "Aston V",
+          "away_team": "Palace",
+          "home_score": "4",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Leeds",
+          "away_team": "Newcastle",
+          "home_score": "0",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Burnley",
+          "away_team": "Wolves",
+          "home_score": "2",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Southampton",
+          "away_team": "Tottenham",
+          "home_score": "3",
+          "away_score": "3"
+        },
+        {
+          "home_team": "Leicester",
+          "away_team": "Sheffield U",
+          "home_score": "3",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Manchester Reds",
+          "away_team": "Brighton",
+          "home_score": "2",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Everton",
+          "away_team": "Manchester Blue",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Fulham",
+          "away_team": "Liverpool",
+          "home_score": "2",
+          "away_score": "1"
+        },
+        {
+          "home_team": "West Ham",
+          "away_team": "London Reds",
+          "home_score": "1",
+          "away_score": "2"
+        },
+        {
+          "home_team": "West Brom",
+          "away_team": "London Blues",
+          "home_score": "2",
+          "away_score": "0"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 13 - #2026020510",
+        "time": "1:18 pm"
+      },
+      "games": [
+        {
+          "home_team": "Manchester Blue",
+          "away_team": "West Ham",
+          "home_score": "2",
+          "away_score": "2"
+        },
+        {
+          "home_team": "London Blues",
+          "away_team": "Manchester Reds",
+          "home_score": "0",
+          "away_score": "3"
+        },
+        {
+          "home_team": "Tottenham",
+          "away_team": "West Brom",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Fulham",
+          "away_team": "Leicester",
+          "home_score": "0",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Sheffield U",
+          "away_team": "Everton",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Newcastle",
+          "away_team": "Palace",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Wolves",
+          "away_team": "Leeds",
+          "home_score": "2",
+          "away_score": "3"
+        },
+        {
+          "home_team": "Liverpool",
+          "away_team": "Southampton",
+          "home_score": "4",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Brighton",
+          "away_team": "Aston V",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "London Reds",
+          "away_team": "Burnley",
+          "home_score": "2",
+          "away_score": "3"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 12 - #2026020510",
+        "time": "1:16 pm"
+      },
+      "games": [
+        {
+          "home_team": "Aston V",
+          "away_team": "London Blues",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Leeds",
+          "away_team": "London Reds",
+          "home_score": "2",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Manchester Reds",
+          "away_team": "Tottenham",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Southampton",
+          "away_team": "Fulham",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Newcastle",
+          "away_team": "Brighton",
+          "home_score": "0",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Leicester",
+          "away_team": "Everton",
+          "home_score": "3",
+          "away_score": "1"
+        },
+        {
+          "home_team": "West Brom",
+          "away_team": "Liverpool",
+          "home_score": "2",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Palace",
+          "away_team": "Wolves",
+          "home_score": "4",
+          "away_score": "0"
+        },
+        {
+          "home_team": "West Ham",
+          "away_team": "Sheffield U",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Burnley",
+          "away_team": "Manchester Blue",
+          "home_score": "1",
+          "away_score": "2"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 11 - #2026020510",
+        "time": "1:14 pm"
+      },
+      "games": [
+        {
+          "home_team": "Southampton",
+          "away_team": "Leicester",
+          "home_score": "1",
+          "away_score": "3"
+        },
+        {
+          "home_team": "London Blues",
+          "away_team": "Newcastle",
+          "home_score": "2",
+          "away_score": "2"
+        },
+        {
+          "home_team": "London Reds",
+          "away_team": "Palace",
+          "home_score": "2",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Wolves",
+          "away_team": "Brighton",
+          "home_score": "2",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Everton",
+          "away_team": "West Ham",
+          "home_score": "1",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Liverpool",
+          "away_team": "Manchester Reds",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Tottenham",
+          "away_team": "Aston V",
+          "home_score": "1",
+          "away_score": "3"
+        },
+        {
+          "home_team": "Sheffield U",
+          "away_team": "Burnley",
+          "home_score": "2",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Manchester Blue",
+          "away_team": "Leeds",
+          "home_score": "2",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Fulham",
+          "away_team": "West Brom",
+          "home_score": "1",
+          "away_score": "1"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 10 - #2026020510",
+        "time": "1:12 pm"
+      },
+      "games": [
+        {
+          "home_team": "Aston V",
+          "away_team": "Liverpool",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Brighton",
+          "away_team": "London Reds",
+          "home_score": "0",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Leeds",
+          "away_team": "Sheffield U",
+          "home_score": "2",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Leicester",
+          "away_team": "West Ham",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Manchester Reds",
+          "away_team": "Fulham",
+          "home_score": "0",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Newcastle",
+          "away_team": "Tottenham",
+          "home_score": "2",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Wolves",
+          "away_team": "London Blues",
+          "home_score": "3",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Burnley",
+          "away_team": "Everton",
+          "home_score": "0",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Palace",
+          "away_team": "Manchester Blue",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "West Brom",
+          "away_team": "Southampton",
+          "home_score": "2",
+          "away_score": "2"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 9 - #2026020510",
+        "time": "1:10 pm"
+      },
+      "games": [
+        {
+          "home_team": "Tottenham",
+          "away_team": "Wolves",
+          "home_score": "0",
+          "away_score": "3"
+        },
+        {
+          "home_team": "London Reds",
+          "away_team": "London Blues",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Everton",
+          "away_team": "Leeds",
+          "home_score": "4",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Manchester Blue",
+          "away_team": "Brighton",
+          "home_score": "1",
+          "away_score": "3"
+        },
+        {
+          "home_team": "Fulham",
+          "away_team": "Aston V",
+          "home_score": "3",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Southampton",
+          "away_team": "Manchester Reds",
+          "home_score": "2",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Liverpool",
+          "away_team": "Newcastle",
+          "home_score": "2",
+          "away_score": "0"
+        },
+        {
+          "home_team": "West Brom",
+          "away_team": "Leicester",
+          "home_score": "2",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Sheffield U",
+          "away_team": "Palace",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "West Ham",
+          "away_team": "Burnley",
+          "home_score": "0",
+          "away_score": "1"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 8 - #2026020510",
+        "time": "1:08 pm"
+      },
+      "games": [
+        {
+          "home_team": "Brighton",
+          "away_team": "Sheffield U",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Leeds",
+          "away_team": "West Ham",
+          "home_score": "0",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Manchester Reds",
+          "away_team": "West Brom",
+          "home_score": "2",
+          "away_score": "3"
+        },
+        {
+          "home_team": "Newcastle",
+          "away_team": "Fulham",
+          "home_score": "1",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Wolves",
+          "away_team": "Liverpool",
+          "home_score": "0",
+          "away_score": "0"
+        },
+        {
+          "home_team": "London Blues",
+          "away_team": "Manchester Blue",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "London Reds",
+          "away_team": "Tottenham",
+          "home_score": "2",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Leicester",
+          "away_team": "Burnley",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Aston V",
+          "away_team": "Southampton",
+          "home_score": "4",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Palace",
+          "away_team": "Everton",
+          "home_score": "2",
+          "away_score": "1"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 7 - #2026020510",
+        "time": "1:06 pm"
+      },
+      "games": [
+        {
+          "home_team": "Burnley",
+          "away_team": "Leeds",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Sheffield U",
+          "away_team": "London Blues",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "West Brom",
+          "away_team": "Aston V",
+          "home_score": "0",
+          "away_score": "3"
+        },
+        {
+          "home_team": "Manchester Blue",
+          "away_team": "Tottenham",
+          "home_score": "4",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Southampton",
+          "away_team": "Newcastle",
+          "home_score": "0",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Liverpool",
+          "away_team": "London Reds",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Everton",
+          "away_team": "Brighton",
+          "home_score": "3",
+          "away_score": "1"
+        },
+        {
+          "home_team": "West Ham",
+          "away_team": "Palace",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Fulham",
+          "away_team": "Wolves",
+          "home_score": "2",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Manchester Reds",
+          "away_team": "Leicester",
+          "home_score": "0",
+          "away_score": "1"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 6 - #2026020510",
+        "time": "1:04 pm"
+      },
+      "games": [
+        {
+          "home_team": "Aston V",
+          "away_team": "Manchester Reds",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "London Blues",
+          "away_team": "Everton",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Manchester Blue",
+          "away_team": "Liverpool",
+          "home_score": "2",
+          "away_score": "2"
+        },
+        {
+          "home_team": "London Reds",
+          "away_team": "Fulham",
+          "home_score": "3",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Wolves",
+          "away_team": "Southampton",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Newcastle",
+          "away_team": "West Brom",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Palace",
+          "away_team": "Burnley",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Brighton",
+          "away_team": "West Ham",
+          "home_score": "0",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Leicester",
+          "away_team": "Leeds",
+          "home_score": "2",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Tottenham",
+          "away_team": "Sheffield U",
+          "home_score": "1",
+          "away_score": "0"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 5 - #2026020510",
+        "time": "1:02 pm"
+      },
+      "games": [
+        {
+          "home_team": "West Brom",
+          "away_team": "Wolves",
+          "home_score": "2",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Leeds",
+          "away_team": "Palace",
+          "home_score": "0",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Everton",
+          "away_team": "Tottenham",
+          "home_score": "2",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Burnley",
+          "away_team": "Brighton",
+          "home_score": "5",
+          "away_score": "1"
+        },
+        {
+          "home_team": "West Ham",
+          "away_team": "London Blues",
+          "home_score": "1",
+          "away_score": "3"
+        },
+        {
+          "home_team": "Sheffield U",
+          "away_team": "Liverpool",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Aston V",
+          "away_team": "Leicester",
+          "home_score": "3",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Southampton",
+          "away_team": "London Reds",
+          "home_score": "0",
+          "away_score": "3"
+        },
+        {
+          "home_team": "Fulham",
+          "away_team": "Manchester Blue",
+          "home_score": "2",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Manchester Reds",
+          "away_team": "Newcastle",
+          "home_score": "2",
+          "away_score": "2"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 4 - #2026020510",
+        "time": "1:00 pm"
+      },
+      "games": [
+        {
+          "home_team": "Brighton",
+          "away_team": "Leeds",
+          "home_score": "0",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Sheffield U",
+          "away_team": "Fulham",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "London Blues",
+          "away_team": "Burnley",
+          "home_score": "2",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Leicester",
+          "away_team": "Palace",
+          "home_score": "1",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Tottenham",
+          "away_team": "West Ham",
+          "home_score": "2",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Liverpool",
+          "away_team": "Everton",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "London Reds",
+          "away_team": "West Brom",
+          "home_score": "3",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Newcastle",
+          "away_team": "Aston V",
+          "home_score": "1",
+          "away_score": "3"
+        },
+        {
+          "home_team": "Wolves",
+          "away_team": "Manchester Reds",
+          "home_score": "2",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Manchester Blue",
+          "away_team": "Southampton",
+          "home_score": "1",
+          "away_score": "3"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 3 - #2026020510",
+        "time": "12:58 pm"
+      },
+      "games": [
+        {
+          "home_team": "Everton",
+          "away_team": "Fulham",
+          "home_score": "1",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Aston V",
+          "away_team": "Wolves",
+          "home_score": "1",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Palace",
+          "away_team": "Brighton",
+          "home_score": "3",
+          "away_score": "3"
+        },
+        {
+          "home_team": "Leeds",
+          "away_team": "London Blues",
+          "home_score": "2",
+          "away_score": "0"
+        },
+        {
+          "home_team": "West Brom",
+          "away_team": "Manchester Blue",
+          "home_score": "2",
+          "away_score": "4"
+        },
+        {
+          "home_team": "Manchester Reds",
+          "away_team": "London Reds",
+          "home_score": "0",
+          "away_score": "0"
+        },
+        {
+          "home_team": "West Ham",
+          "away_team": "Liverpool",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Newcastle",
+          "away_team": "Leicester",
+          "home_score": "4",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Burnley",
+          "away_team": "Tottenham",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Southampton",
+          "away_team": "Sheffield U",
+          "home_score": "0",
+          "away_score": "2"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 2 - #2026020510",
+        "time": "12:56 pm"
+      },
+      "games": [
+        {
+          "home_team": "Everton",
+          "away_team": "Southampton",
+          "home_score": "3",
+          "away_score": "2"
+        },
+        {
+          "home_team": "London Blues",
+          "away_team": "Palace",
+          "home_score": "2",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Leicester",
+          "away_team": "Brighton",
+          "home_score": "0",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Sheffield U",
+          "away_team": "West Brom",
+          "home_score": "4",
+          "away_score": "1"
+        },
+        {
+          "home_team": "London Reds",
+          "away_team": "Aston V",
+          "home_score": "2",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Fulham",
+          "away_team": "West Ham",
+          "home_score": "1",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Wolves",
+          "away_team": "Newcastle",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Liverpool",
+          "away_team": "Burnley",
+          "home_score": "2",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Tottenham",
+          "away_team": "Leeds",
+          "home_score": "2",
+          "away_score": "3"
+        },
+        {
+          "home_team": "Manchester Blue",
+          "away_team": "Manchester Reds",
+          "home_score": "2",
+          "away_score": "0"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 1 - #2026020510",
+        "time": "12:54 pm"
+      },
+      "games": [
+        {
+          "home_team": "Aston V",
+          "away_team": "Manchester Blue",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Burnley",
+          "away_team": "Fulham",
+          "home_score": "3",
+          "away_score": "3"
+        },
+        {
+          "home_team": "Manchester Reds",
+          "away_team": "Sheffield U",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Wolves",
+          "away_team": "Leicester",
+          "home_score": "3",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Brighton",
+          "away_team": "London Blues",
+          "home_score": "2",
+          "away_score": "1"
+        },
+        {
+          "home_team": "West Brom",
+          "away_team": "Everton",
+          "home_score": "0",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Leeds",
+          "away_team": "Liverpool",
+          "home_score": "1",
+          "away_score": "4"
+        },
+        {
+          "home_team": "West Ham",
+          "away_team": "Southampton",
+          "home_score": "3",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Newcastle",
+          "away_team": "London Reds",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Palace",
+          "away_team": "Tottenham",
+          "home_score": "3",
+          "away_score": "3"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 38 - #2026020509",
+        "time": "12:52 pm"
+      },
+      "games": [
+        {
+          "home_team": "Everton",
+          "away_team": "Aston V",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Manchester Blue",
+          "away_team": "Liverpool",
+          "home_score": "1",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Burnley",
+          "away_team": "London Reds",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Manchester Reds",
+          "away_team": "Newcastle",
+          "home_score": "3",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Southampton",
+          "away_team": "Fulham",
+          "home_score": "0",
+          "away_score": "0"
+        },
+        {
+          "home_team": "West Ham",
+          "away_team": "Leeds",
+          "home_score": "2",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Brighton",
+          "away_team": "Wolves",
+          "home_score": "3",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Palace",
+          "away_team": "Leicester",
+          "home_score": "3",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Tottenham",
+          "away_team": "Sheffield U",
+          "home_score": "2",
+          "away_score": "1"
+        },
+        {
+          "home_team": "West Brom",
+          "away_team": "London Blues",
+          "home_score": "0",
+          "away_score": "1"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 37 - #2026020509",
+        "time": "12:50 pm"
+      },
+      "games": [
+        {
+          "home_team": "Leicester",
+          "away_team": "West Ham",
+          "home_score": "1",
+          "away_score": "3"
+        },
+        {
+          "home_team": "Burnley",
+          "away_team": "Manchester Reds",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Wolves",
+          "away_team": "Sheffield U",
+          "home_score": "1",
+          "away_score": "3"
+        },
+        {
+          "home_team": "Newcastle",
+          "away_team": "Palace",
+          "home_score": "2",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Liverpool",
+          "away_team": "Tottenham",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "London Blues",
+          "away_team": "Everton",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Aston V",
+          "away_team": "Manchester Blue",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Fulham",
+          "away_team": "Brighton",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "London Reds",
+          "away_team": "West Brom",
+          "home_score": "3",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Leeds",
+          "away_team": "Southampton",
+          "home_score": "3",
+          "away_score": "0"
+        }
+      ]
+    },
+    {
+      "week_info": {
+        "week_title": "English League WEEK 36 - #2026020509",
+        "time": "12:48 pm"
+      },
+      "games": [
+        {
+          "home_team": "Everton",
+          "away_team": "London Reds",
+          "home_score": "1",
+          "away_score": "0"
+        },
+        {
+          "home_team": "Tottenham",
+          "away_team": "Aston V",
+          "home_score": "0",
+          "away_score": "2"
+        },
+        {
+          "home_team": "Manchester Blue",
+          "away_team": "London Blues",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "West Ham",
+          "away_team": "Newcastle",
+          "home_score": "1",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Brighton",
+          "away_team": "Leeds",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "West Brom",
+          "away_team": "Burnley",
+          "home_score": "1",
+          "away_score": "4"
+        },
+        {
+          "home_team": "Southampton",
+          "away_team": "Leicester",
+          "home_score": "2",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Sheffield U",
+          "away_team": "Fulham",
+          "home_score": "0",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Wolves",
+          "away_team": "Liverpool",
+          "home_score": "3",
+          "away_score": "1"
+        },
+        {
+          "home_team": "Manchester Reds",
+          "away_team": "Palace",
+          "home_score": "0",
+          "away_score": "1"
+        }
+      ]
+    }
+  ],
+  "standings_data": [
+    {
+      "season": "English League Season #2026020510"
+    },
+    {
+      "teams": [
+        {
+          "position": "1",
+          "team_name": "London Reds",
+          "points": "65",
+          "form": [
+            "D",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "position": "2",
+          "team_name": "Burnley",
+          "points": "59",
+          "form": [
+            "D",
+            "D",
+            "L",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "position": "3",
+          "team_name": "Fulham",
+          "points": "56",
+          "form": [
+            "D",
+            "W",
+            "L",
+            "D",
+            "W"
+          ]
+        },
+        {
+          "position": "4",
+          "team_name": "Palace",
+          "points": "55",
+          "form": [
+            "D",
+            "D",
+            "W",
+            "D",
+            "D"
+          ]
+        },
+        {
+          "position": "5",
+          "team_name": "Aston V",
+          "points": "52",
+          "form": [
+            "D",
+            "L",
+            "L",
+            "D",
+            "W"
+          ]
+        },
+        {
+          "position": "6",
+          "team_name": "Everton",
+          "points": "51",
+          "form": [
+            "W",
+            "W",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "position": "7",
+          "team_name": "Brighton",
+          "points": "51",
+          "form": [
+            "W",
+            "D",
+            "W",
+            "W",
+            "D"
+          ]
+        },
+        {
+          "position": "8",
+          "team_name": "Sheffield U",
+          "points": "48",
+          "form": [
+            "D",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "position": "9",
+          "team_name": "Manchester Blue",
+          "points": "48",
+          "form": [
+            "D",
+            "D",
+            "D",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "position": "10",
+          "team_name": "Liverpool",
+          "points": "47",
+          "form": [
+            "D",
+            "L",
+            "W",
+            "D",
+            "W"
+          ]
+        },
+        {
+          "position": "11",
+          "team_name": "London Blues",
+          "points": "44",
+          "form": [
+            "L",
+            "W",
+            "W",
+            "W",
+            "W"
+          ]
+        },
+        {
+          "position": "12",
+          "team_name": "West Brom",
+          "points": "44",
+          "form": [
+            "D",
+            "W",
+            "D",
+            "L",
+            "D"
+          ]
+        },
+        {
+          "position": "13",
+          "team_name": "Wolves",
+          "points": "43",
+          "form": [
+            "L",
+            "D",
+            "W",
+            "L",
+            "D"
+          ]
+        },
+        {
+          "position": "14",
+          "team_name": "Tottenham",
+          "points": "41",
+          "form": [
+            "D",
+            "D",
+            "D",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "position": "15",
+          "team_name": "Leicester",
+          "points": "40",
+          "form": [
+            "W",
+            "L",
+            "W",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "position": "16",
+          "team_name": "Leeds",
+          "points": "38",
+          "form": [
+            "D",
+            "L",
+            "L",
+            "W",
+            "L"
+          ]
+        },
+        {
+          "position": "17",
+          "team_name": "West Ham",
+          "points": "38",
+          "form": [
+            "L",
+            "L",
+            "D",
+            "L",
+            "D"
+          ]
+        },
+        {
+          "position": "18",
+          "team_name": "Newcastle",
+          "points": "37",
+          "form": [
+            "W",
+            "D",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "position": "19",
+          "team_name": "Southampton",
+          "points": "31",
+          "form": [
+            "L",
+            "L",
+            "L",
+            "L",
+            "L"
+          ]
+        },
+        {
+          "position": "20",
+          "team_name": "Manchester Reds",
+          "points": "25",
+          "form": [
+            "D",
+            "D",
+            "L",
+            "L",
+            "D"
+          ]
+        }
+      ]
+    }
+  ]
+}
